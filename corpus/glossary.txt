@@ -1,0 +1,3918 @@
+
+
+Xenosaga Episode I: Der Wille zur Macht
+
+Database FAQ
+by tamashii (aka Christiana Bakarich)
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+-------------------------------------------------------------------------------
+   AAA class encryption                                                  001
+-------------------------------------------------------------------------------
+
+   Read as "Triple A class..."
+
+   It is a designation given to areas requiring the
+   highest levels of restricted access.
+
+   As one of the highest classified components of Project
+   Zohar, KOS-MOS falls under this designation.
+
+   KOS-MOS' importance to this project is evident in Jr.'s
+   comment that the only other entities with that class of
+   restriction would be the "Federation government's
+   motherframe, or the U.M.N. operating system."
+
+
+
+-------------------------------------------------------------------------------
+   absolute coordinates                                                  002
+-------------------------------------------------------------------------------
+
+   Spacial coordinate values based on the supersphere
+   structure of the universe.
+
+
+
+-------------------------------------------------------------------------------
+   Abyss                                                                 003
+-------------------------------------------------------------------------------
+
+   The literal translation is "deep chasm."
+
+   This word can be defined as a "deep hole" or it can also
+   be a reference to Hell.
+
+   The in-game reference is to a double black hole which
+   appeared in Old Miltian space.
+
+
+
+-------------------------------------------------------------------------------
+   Acute Neurosis Treatment Facility                                     004
+-------------------------------------------------------------------------------
+
+   A medical facility on Old Miltia, where Shion's mother was
+   treated.
+
+   The type of illness or condition this facility specializes in,
+   is unknown.
+
+
+
+-------------------------------------------------------------------------------
+   A.G.W.S.                                                              005
+-------------------------------------------------------------------------------
+
+   Short for "Anti-Gnosis Weapon System."
+
+   A name used to describe all weapons systems designed to
+   fight the Gnosis, not all of which come in humanoid forms.
+   The A.G.W.S. were substantially downscaled in size to
+   better respond to the Gnosis' sudden attacks, and are
+   roughly equivalent in weight to a large automobile.
+
+   Their primary power source, called the Transmit Generator,
+   does not contain any fuel or energy-conversion device;
+   all energy is transmitted directly to these generators
+   from the mother ship or base station. Thus, the term
+   "generator" is not appropriate for these systems. Similarly
+   the propellants used by the A.G.W.S. for locomotion are also
+   continuously provided by the mother ship or base, so
+   A.G.W.S. can in effect run indefinitely as long as they
+   remain within the area of influence.
+
+
+
+-------------------------------------------------------------------------------
+   A.G.W.S. (2)                                                          006
+-------------------------------------------------------------------------------
+
+   A.G.W.S. come in various shapes which are determined by
+   their functions. The Federation military's standard issue
+   A.G.W.S. are all fitted with a standardized, interchangeable
+   cockpit module. By exchanging their limbs, weapons, and
+   armor, they can be modified to adapt to various situations
+   and environments.
+
+   Vector Industries' A.G.W.S. are not mass produced, but
+   test models intended for eventual distribution to civilian
+   consumers. Thus only government Special Ops units and
+   certain divisions of the military have access to them.
+
+   The A.G.W.S. used onboard the Durandal were also Vector
+   made models obtained via the same channels.
+
+
+
+-------------------------------------------------------------------------------
+   Albedo                                                                007
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4741
+   AGE: 26 years old
+
+   Albedo Piasora
+
+   In <Psychology and Alchemy> (1944), C.G. Jung refers to
+   albedo, or "whitening", as one stage in the process of
+   human individuation as symbolized in alchemic terms.
+
+   A nickname for U.R.T.V. Unit #667, in reference to his
+   milky-white hair.
+
+
+
+-------------------------------------------------------------------------------
+   Albedo's Mech                                                         008
+-------------------------------------------------------------------------------
+
+   The details of this mech are currently unknown. However,
+   judging from its enormous size (over 10m tall), its lack
+   of equipment such as the D.S.S.S., and its ability to
+   destroy Gnosis several kilometers long with one blow,
+   it outclasses the A.G.W.S.
+
+   Its primary power source also appears to differ from a
+   standard generator or a transfer-capable generator.
+
+
+
+-------------------------------------------------------------------------------
+   Allen Ridgeley                                                        009
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4743
+   AGE: 24 years old.
+
+   Assistant Chief Engineer of the KOS-MOS Project General
+   Operation System Research Center, Vector Industries
+   First R&D Division.
+
+   Upon graduation from the University of Bormeo, he joined
+   Vector's First R&D Division. Although he is two years older
+   than Shion, Allen is her junior by one year in the
+   corporate hierarchy of Vector.
+
+   He apparently comes from a wealthy family, but he does
+   not share details of his background with anyone.
+
+   Hobby: Fishing
+
+
+
+-------------------------------------------------------------------------------
+   ...all part of the plan from the very beginning                       010
+-------------------------------------------------------------------------------
+
+   Ziggy voices his suspicion that even if he had successfully
+   rescued MOMO, arrangements were already in place to
+   countermand his actions.
+
+   The details of this counterplan include broadcasting images
+   from the Woglinde the moment MOMO was handed over to
+   the Miltian state government or any of its affiliated
+   organizations, and the seizure of MOMO by her erstwhile
+   captors.
+
+   Indeed, the incident involving MOMO is closely linked to the
+   events surrounding the Zohar Emulator.
+
+   Judging from the fact that Margulis' "Plan 31" and
+   "Plan 401" are interlinked, Ziggy's speculations
+   seem fairly accurate for the most part.
+
+
+
+-------------------------------------------------------------------------------
+   amplifier                                                             011
+-------------------------------------------------------------------------------
+
+   A device used by warships to amplify the Hilbert Effect
+   generated by the 100-Series Observational Units.
+
+   It has a secondary function as an omni-directional
+   broadcaster as well. However, due to broadcast limitations
+   (coverage is limited to a 100km radius), it is necessary
+   for several ships to use their systems cooperatively during
+   battles.
+
+   This device runs anywhere between ten to several hundred
+   tons, so only large vessels or cities have them.
+
+   All Federation Fleet warships built after T.C. 4766 have
+   them pre-installed as part of their standard equipment.
+
+   The Woglinde also had an amplifier onboard, but due to the
+   lack of a complementary 100-Series Observational Unit, it
+   suffered tremendous damage during battle.
+
+
+
+-------------------------------------------------------------------------------
+   android                                                               012
+-------------------------------------------------------------------------------
+
+   An artificial humanoid life form.
+
+   The first recognized use of the term "Android" was in
+   <"Tomorrow's Eve,"> a novel by Villiers de L'Isle Adam (1838-
+   1889), to describe the artificial woman Hadaly.
+
+   During the game, a character comments, "It's hard to
+   believe they're making an android in this day and age."
+   However, he fails to recognize the fact that Realians,
+   whose biological structure is nearly identical to that
+   of humans, can also be categorized as androids.
+
+   In fact, this scene is a great illustration of Vector's
+   technological prowess. In an age where "simulated" A.I.
+   -- which rely on the spontaneous growth of networks --
+   have become the norm, Vector continues to pursue the
+   elusive goal of creating a completely man-made A.I.
+
+
+
+-------------------------------------------------------------------------------
+   archetype                                                             013
+-------------------------------------------------------------------------------
+
+   According to Jungian psychology, an image from the
+   collective unconscious, an inherited memory represented
+   in the mind by a universal symbol and observed in dreams
+   and myths.
+
+   The in-game reference is to the KOS-MOS prototype Kevin
+   designed.
+
+
+
+-------------------------------------------------------------------------------
+   Atalya                                                                014
+-------------------------------------------------------------------------------
+
+   A planetary member of the Galaxy Federation.
+
+   It is located in close proximity to the area in which
+   the Woglinde disaster occurred, and functions as a
+   relay point for the transfer column to Senir.
+
+
+
+-------------------------------------------------------------------------------
+   Attract Inhibitor                                                     015
+-------------------------------------------------------------------------------
+
+   A device used to inhibit the Zohar emulator's functions.
+
+   In biochemistry an "inhibitor" indicates a substance used
+   to block enzymatic functions.
+
+
+
+-------------------------------------------------------------------------------
+   Auto-Mode                                                             016
+-------------------------------------------------------------------------------
+
+   An operational mode which relies on independent decision
+   making.
+
+   In this case, the term refers to KOS-MOS' ability to
+   process data captured by her sensors, reach her own
+   conclusions based on that information, and act on
+   them.
+
+
+
+-------------------------------------------------------------------------------
+   autonomous state                                                      017
+-------------------------------------------------------------------------------
+
+   The Galaxy Federation is comprised of approximately half
+   a million autonomous state governments.
+
+   Each autonomous state, divided according to planetary
+   systems, has its own administrative and law enforcement
+   agencies, but the Federation government's laws take
+   precedence over them all.
+
+
+
+-------------------------------------------------------------------------------
+   Auto-Tech terminal                                                    018
+-------------------------------------------------------------------------------
+
+   An unmanned battle craft used by the U-TIC Organization.
+
+   Each individual terminal is jump-capable, and carries
+   approximately ten small remotely operated weapons
+   units in a rear compartment.
+
+
+
+-------------------------------------------------------------------------------
+   battle in hyperspace                                                  019
+-------------------------------------------------------------------------------
+
+   If an object comes in contact with the inner boundary of
+   hyperspace (the column wall), it disintegrates into
+   subatomic particles.
+
+   Matthews was referring to this danger when engaging in
+   combat inside such a high-risk environment.
+
+
+
+-------------------------------------------------------------------------------
+   Betty                                                                 020
+-------------------------------------------------------------------------------
+
+   A specimen of a transformed Gnosis in the Kukai
+   Foundation's possession.
+
+   She was named "Betty" for the letter "B" monogrammed
+   onto her personal effects.
+
+
+
+-------------------------------------------------------------------------------
+   binding                                                               021
+-------------------------------------------------------------------------------
+
+   A locking mechanism used to physically restrain KOS-MOS,
+   located inside the maintenance unit.
+
+
+
+-------------------------------------------------------------------------------
+   black box                                                             022
+-------------------------------------------------------------------------------
+
+   A term used for objects whose contents are unknown.
+
+   The in-game reference is to KOS-MOS' central components
+   and their respective software.
+
+
+
+-------------------------------------------------------------------------------
+   book                                                                  023
+-------------------------------------------------------------------------------
+
+   Refers to a book printed on paper, an antique in this time
+   period.
+
+
+
+-------------------------------------------------------------------------------
+   bookworm                                                              024
+-------------------------------------------------------------------------------
+
+   An insult directed at people who spend all their time reading.
+   Shion's brother, however, hardly seems to be just an
+   average bookworm...
+
+
+
+-------------------------------------------------------------------------------
+   Bormeo University                                                     025
+-------------------------------------------------------------------------------
+
+   One of the best educational institutions in the Galaxy
+   Federation.
+
+   It is a technological institution, and many Vector employees
+   are graduates of this university, including Allen.
+
+
+
+-------------------------------------------------------------------------------
+   cage partition                                                        026
+-------------------------------------------------------------------------------
+
+   Data which forms the essence of KOS-MOS' being is stored
+   within these sectioned areas of her main database.
+
+
+
+-------------------------------------------------------------------------------
+   Captain Lapis Roman                                                   027
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4738
+   AGE: 29 years old
+
+   A captain within the Galaxy Federation Military's Special
+   Operations Command Intelligence Unit.
+
+   She works for Helmer, the Representative of the Second
+   Miltian government.
+
+
+
+-------------------------------------------------------------------------------
+   Captain Moriyama                                                      028
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4727
+   AGE: 40 years old
+
+   Captain of the space cruiser Woglinde.
+
+   Loyal to his mission, he is also quite generous and
+   understanding towards his subordinates who all trust him.
+
+
+
+-------------------------------------------------------------------------------
+   cargo weight                                                          029
+-------------------------------------------------------------------------------
+
+   Tolls for the U.M.N. Transfer Gate are determined by the
+   total weight of the matter to be moved, and the distance
+   it will travel.
+
+   Each class of cargo or passenger vessel has an assigned
+   weight limit; the amount by which the Elsa was over its
+   weight limit certainly cannot be attributed entirely to
+   the addition of Shion and her party.
+
+   The speculation is that the Elsa contained salvaged
+   wreckage that was smuggled in at one point or another.
+
+
+
+-------------------------------------------------------------------------------
+   chaos                                                                 030
+-------------------------------------------------------------------------------
+
+   BORN: unknown
+   AGE: unknown
+
+   A slender young boy, his perpetually melancholic expression
+   as well as the depth and scope of his conversations give
+   rise to the impression that he hails from a higher plane of
+   existence.
+
+   As he volunteers no information whatsoever about his past
+   other than his name, everything about him, including whether
+   he even has any memory of his past, is unknown.
+
+   His relationship with Matthews and the crew appears to go
+   back for quite some time, and they all respect him highly.
+
+   His translucent blue eyes and silver hair are particularly
+   notable features.
+
+
+
+-------------------------------------------------------------------------------
+   charter flight                                                        031
+-------------------------------------------------------------------------------
+
+   Cherenkov mentioned going to search for one at the dock
+   colony, when Hammer asked where he was going.
+
+   He was most likely searching for a vessel that would take
+   him directly from the dock colony to his destination (in
+   this case a facility associated with the U-TIC Organization).
+
+
+
+-------------------------------------------------------------------------------
+   Commander Andrew Cherenkov                                            032
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4731
+   AGE: 36 years old
+
+   A Commander in the Federation Marine Corps, and second in
+   command of the battle cruiser Woglinde.
+
+   There is more to this man, than meets the eye.
+
+
+
+-------------------------------------------------------------------------------
+   commercial model                                                      033
+-------------------------------------------------------------------------------
+
+   A mass-produced product targeted for the general
+   consumer, as opposed to those intended for the
+   military or law enforcement agencies.
+
+   This categorical distinction is often seen in firearms,
+   where the military and law enforcement agency models
+   do not differ greatly except for modifications that
+   allow disabling of the full auto switch, or limiting
+   the number of rounds in the cartridge.
+
+   During the story, an operator comments "...even their
+   commercial models differ greatly between those that've
+   seeen action and those that haven't." What she means is
+   that Vector must be trying to boost the appeal of the
+   commercial model KOS-MOS to consumers, by building its
+   reputation as a military model first.
+
+
+
+-------------------------------------------------------------------------------
+   condenser                                                             034
+-------------------------------------------------------------------------------
+
+   The in-game reference is to a device used by KOS-MOS to
+   store the energy she requires to function. Due to the
+   fact that KOS-OS' current setup was for simulated
+   battle, her condenser is also a test version.
+
+   Second Division on Second Miltia is apparently developing
+   a working model of this item.
+
+
+
+-------------------------------------------------------------------------------
+   congestion                                                            035
+-------------------------------------------------------------------------------
+
+   A condition in which communication lines are busy due
+   to excess traffic.
+
+
+
+-------------------------------------------------------------------------------
+   Connection Gear                                                       036
+-------------------------------------------------------------------------------
+
+   A PDA often used by Shion and the others.
+
+   When activated, a holographic monitor and keyboard appear.
+   Its capabilities can be further expanded via downloads of
+   various plug-ins.
+
+   Best thought of as an advanced version of a PC, or a
+   wireless phone.
+
+
+
+-------------------------------------------------------------------------------
+   ...constantly make sure I watch what I'm thinking                     037
+-------------------------------------------------------------------------------
+
+   When telepaths converse with their minds, they must
+   maintain a barrier so that subconscious thoughts are
+   not unintentionally divulged to one another.
+
+
+
+-------------------------------------------------------------------------------
+   counselor                                                             038
+-------------------------------------------------------------------------------
+
+   A specialized doctor responsible for maintaining the
+   physical and mental health of Realians.
+
+   The standards for qualification in this field are higher than
+   other medical professions. Therefore, it is one of the more
+   challenging occupations.
+
+   However, the unabated high demand for counselors has
+   resulted in a proliferation of temporary maintenance
+   stations for Realians.
+
+   Most counselors work in the companies which manufacture
+   Realians.
+
+
+
+-------------------------------------------------------------------------------
+   counterterrorism                                                      039
+-------------------------------------------------------------------------------
+
+   The literal translation is "anti-terrorism."
+
+   One hundred years ago, Ziggy was a member of the 1875th
+   Special Ops Command Detachment of the Federation Police
+   Bureau, a unit which specialized in counterterrorism.
+
+
+
+-------------------------------------------------------------------------------
+   creator and creation                                                  040
+-------------------------------------------------------------------------------
+
+   Refers to the creator and all life created by it.
+
+   God and man.
+   Man and Realian.
+
+
+
+-------------------------------------------------------------------------------
+   curry                                                                 041
+-------------------------------------------------------------------------------
+
+   One of Shion's culinary specialties.
+
+   A reaction by an American game fan who saw this scene at a
+   recent game show was: "What the hell are they eating?!"
+
+   Alas, culinary cultural differences...
+
+
+
+-------------------------------------------------------------------------------
+   cyborg                                                                042
+-------------------------------------------------------------------------------
+
+   A living organism which possesses artificial organs.
+
+   An obsolete technology, once popular in the age before
+   nano and Realian technologies emerged.
+
+
+
+-------------------------------------------------------------------------------
+   Dämmerung                                                             043
+-------------------------------------------------------------------------------
+
+   A free orbiting colony, it also functions as Vector's
+   headquarters. However, its 1000km size makes it
+   more of an artificial planet rather than a colony.
+
+   All the core branches of Vector and its subsidiary
+   corporations are located here, including the First
+   R&D Division and Shion's living quarters.
+
+
+
+-------------------------------------------------------------------------------
+   DIG-<B>                                                               044
+-------------------------------------------------------------------------------
+
+   Short for "Digitalis Beta."
+   Read as "Digi-Beta."
+
+   A plant of the genus Digitalis which is native to southern
+   Europe. Although its leaves can be dried and used as a
+   potent cardiotonic, it is also extremely poisonous. When
+   ingested in quantities above a safe dosage, it can induce
+   a coma.
+
+   Whether Dig-<B> is an extract of the digitalis plant or an
+   entirely different substance with the same name is
+   unknown.
+
+
+
+-------------------------------------------------------------------------------
+   direct approach                                                       045
+-------------------------------------------------------------------------------
+
+   A process which entails disengaging the VR-2000, the
+   conduit that connects the perspectives of two
+   individuals, and transferring one's consciousness
+   directly into the Encephalon of the other.
+
+   This act of directly entering another individual's realm of
+   consciousness can inadvertently cause one to lose their
+   own sense of self.
+
+   Also known as "diving."
+
+
+
+-------------------------------------------------------------------------------
+   Director                                                              046
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4726
+   AGE: 41 years old
+
+   The director of Vector's First R&D Division, and Shion's
+   immediate superior.
+
+   Although he appears to be a simple easy-going person,
+   as the head of an entire division, rumor has it that
+   he is quite sharp and competent.
+
+
+
+-------------------------------------------------------------------------------
+   DME addiction                                                         047
+-------------------------------------------------------------------------------
+
+   An addiction which results from the consumption of Realian
+   body tissue.
+
+   The blood vessels carry the ingested tissue (mainly from
+   the central nervous system) to the brain, which results in
+   neural structural changes. The physical and mental states
+   are then altered, but occasionally this results in death
+   when an allergic reaction occurs.
+
+   Once the brain has undergone an alteration, the addict
+   must continue to consume new Realian tissue to avoid
+   withdrawal symptoms, thus necessitating a drug dependent
+   intervention.
+
+   There is as of yet no complete cure since the consumed
+   Realian tissue growns and mutates along with the host's
+   neural networks.
+
+   In some corners of the galaxy beyond the reaches of the
+   Federation's control, there is an active black market for
+   Realian tissue, as a new form of recreational narcotics.
+
+   The external symptoms of ths addiction include hardening
+   and cornification of the skin.
+
+
+
+-------------------------------------------------------------------------------
+   Don't forget to take your meds...                                     048
+-------------------------------------------------------------------------------
+
+   A phrase spoken by Cherenkov's wife.
+
+   She refers to the medication he requires to maintain the
+   effects of a personality corrective procedure.
+
+   Apparently individuals who have undergone this procedure
+   require supervision, as evinced from her comment, "I'm the
+   one who'll be held responsible..."
+
+
+
+-------------------------------------------------------------------------------
+   Dragon Skull                                                          049
+-------------------------------------------------------------------------------
+
+   A multi-purpose rail gun capable of firing various types
+   of ammunition.
+
+   KOS-MOS used this gun to fire a signal transmitter,
+   to notify Vector headquarters of the Gnosis' transfer
+   coordinates.
+
+
+
+-------------------------------------------------------------------------------
+   D.S.S.S.                                                              050
+-------------------------------------------------------------------------------
+
+   Short for "Double Slot Sensory System."
+   Read as "D-triple-S."
+
+   A device developed by Vector Industries, used to detect
+   Gnosis in the imaginary realm.
+
+   It consists of a double-slit camera lens mounted on the
+   sensory area of an A.G.W.S. or other fighter craft.
+   (The military A.G.W.S. have them mounted on the chest,
+   while the Vector models have them on the waist.)
+
+   The concept behind this device is similar to that of the
+   double-slit light interference experiment often used in
+   quantum physics.
+
+
+
+-------------------------------------------------------------------------------
+   dual-stage protection                                                 051
+-------------------------------------------------------------------------------
+
+   Something to do with the central nervous system of Realians,
+   but details are currently unknown.
+
+
+
+-------------------------------------------------------------------------------
+   dummy protocol                                                        052
+-------------------------------------------------------------------------------
+
+   A network protocol used to connect KOS-MOS' perspective
+   to that of the operator, via the VR-2000.
+
+   Since KOS-MOS is a stand-alone unit and does not require
+   external feeds, this protocol is used only when KOS-MOS
+   is shut down.
+
+
+
+-------------------------------------------------------------------------------
+   Durandal                                                              053
+-------------------------------------------------------------------------------
+
+   A 4000m class heavy armor battle cruiser owned by the
+   Kukai Foundation.
+
+   It is designed to dock with the Foundation's headquarters,
+   a free orbiting colony. Once docked, it functions as the
+   colony's main propulsion system.
+
+
+
+-------------------------------------------------------------------------------
+   ECM                                                                   054
+-------------------------------------------------------------------------------
+
+   Short for "Electronic Countermeasure."
+
+   A system or device which utilizes electromagnetic waves to
+   interfere with electronic equipment.
+
+   The in-game reference is to the ECM deployed against the
+   Gnosis, leading to the speculation that it is more than
+   just an electromagnetic countermeasure device.
+
+
+
+-------------------------------------------------------------------------------
+   Elsa                                                                  055
+-------------------------------------------------------------------------------
+
+   Length: 166m
+   Weight: 8400t
+
+   A Lohengrin class high velocity interstellar cruiser.
+
+   Formerly a luxury vessel owned by a criminal organization,
+   it was converted into a cargo ship by Captain Matthews,
+   and used as part of the Kukai Foundation's fleet.
+
+   Though not apparent from the outside, Matthews made
+   quite a few modifications, such as the installation of
+   hidden compartments to stow unlicensed weapons. He also
+   upgraded the propulsion system to the latest Logic Drive
+   (logic propulsion device), making it the fastest ship in the
+   galaxy (according to Tony).
+
+   The name "Elsa" comes from the heroine of Wagner's
+   opera, <Lohengrin> (1850).
+
+
+
+-------------------------------------------------------------------------------
+   Emergency Federal Charter                                             056
+-------------------------------------------------------------------------------
+
+   Under normal circumstances, it is a violation of Federation
+   law for anyone, including the Federation Fleet, to engage in
+   military operations within an autonomous state's territory,
+   without prior notification and consent of the state govern-
+   ment.
+
+   However, this charter allows for exemptions from such laws
+   during certain predefined states of emergency.
+
+   The announcement in the story, "The deployment is in
+   accordance with the Federation Emergency Powers Act."
+   refers to the invocation of this very charter.
+
+
+
+-------------------------------------------------------------------------------
+   emergency level 3                                                     057
+-------------------------------------------------------------------------------
+
+   Denotes level 3 of the emergency readiness system.
+
+   Judging from the fact that all lines of communication were
+   allocated to the CIC (Combat Intelligence Center), this
+   emergency level is apparently invoked during Gnosis
+   encounters.
+
+
+
+-------------------------------------------------------------------------------
+   emergency override code                                               058
+-------------------------------------------------------------------------------
+
+   Secret codes used to control a Realian's emotions or the
+   actions that result from them.
+
+   These codes are easily executable via Connection Gear.
+   However due to the power they exert over Realians, whose
+   basic human rights are legally recognized, the use of
+   these codes is limited to "emergency-only" situations.
+   Only members of Vector's Third R&D Division and a limited
+   number of other employees know of their existence.
+
+
+
+-------------------------------------------------------------------------------
+   emulator                                                              059
+-------------------------------------------------------------------------------
+
+   Hardware or software which mimics the behavior of other
+   computer operating systems.
+
+   The in-game reference is to the Zohar Emulators.
+
+   What "emulating" a Zohar actually amounts to, nor the exact
+   purpose of the emulators, is as of yet unknown.
+
+
+
+-------------------------------------------------------------------------------
+   Encephalon                                                            060
+-------------------------------------------------------------------------------
+
+   The word for "brain" in the Greek language.
+
+   The in-game reference is to the simulated environment
+   built inside KOS-MOS' main network.
+
+
+
+-------------------------------------------------------------------------------
+   environmental bug                                                     061
+-------------------------------------------------------------------------------
+
+   Another technological legacy of the late Joachim Mizrahi,
+   these nanomachines are used to maintain the quality of
+   the conditions within an enclosed area.
+
+
+
+-------------------------------------------------------------------------------
+   EPR (EPR Paradox)                                                     062
+-------------------------------------------------------------------------------
+
+   A paradoxical theory presented in 1935 by Albert Einstein,
+   Boris Podolsky, and Nathan Rosen in support of their
+   argument that quantum mechanics still falls short in
+   its explanation of reality.
+
+   A simple theoretical experiment to illustrate this paradox
+   consists of a particle decaying into two identical particles.
+   Because the internal angular momentum or spin of the
+   particle must be conserved, the two decaying particles
+   will have two opposing spins.
+
+   As these particles decay, they are launched in opposite
+   directions. When the distance between the two particles
+   reaches a great distance, say several light years, the spin
+   of one of the particles is measured.
+
+   At the precise moment the spin of one particle is deter-
+   mined, the spin of the other can be determined to be in
+   the opposite direction because the two spins must equal
+   zero.
+
+   Herein lies the paradox, since quantum mechanics dictates
+   that the intrinsic property of an entity cannot be deter-
+   mined until it is actually measured. By determining the
+   spin of the second particle several light years away
+   without measuring it, the experiment would introduce
+   the existence of some strange force that can transmit
+   the information of the first particle's spin to the
+   second particle faster than the speed of light -- a
+   force that cannot be explained by quantum mechanics.
+
+
+
+-------------------------------------------------------------------------------
+   EPR radar                                                             063
+-------------------------------------------------------------------------------
+
+   Radar which utilizes the EPR Paradox to overcome limits
+   imposed by the speed of light. Its effective range is
+   thousands of light years across.
+
+
+
+-------------------------------------------------------------------------------
+   Ether                                                                 064
+-------------------------------------------------------------------------------
+
+   Short for "Especial Theory of Rudimentary."
+
+   A generic term to denote various types of special powers.
+   It encompasses everything from paranormal abilities, to
+   medical treatments using nanomachines, as well as the
+   ability to control spatial dimensions using transference
+   technology.
+
+   The Ether skills used by Shion, KOS-MOS, Ziggy, and MOMO
+   can be categorized into two types: those using applied
+   transference technology, or special skills which use
+   nanomachines.
+
+   In real life, "ether" is a hypothetical medium with special
+   light-conductive characteristics which is believed to fill
+   air and space.
+
+
+
+-------------------------------------------------------------------------------
+   Except a corn of wheat fall into the ground...                        065
+-------------------------------------------------------------------------------
+
+   <Verily, verily, I say unto you, Except a corn of wheat fall
+   into the ground and die, it abideth alone: but if it die,
+   it bringeth forth much fruit.
+   (John 12:24)>
+
+
+
+-------------------------------------------------------------------------------
+   Executive Committee                                                   066
+-------------------------------------------------------------------------------
+
+   The central governing body of the Galaxy Federation is
+   comprised of Representatives from all member systems.
+
+   A conference of the highest level to determine the course
+   of the Federation, it is referred to as the Executive
+   Committee or Executive Committee assembly.
+
+   The 24 upper council members are the central figures in
+   these conferences.
+
+
+
+-------------------------------------------------------------------------------
+   Executive Committee Director                                          067
+-------------------------------------------------------------------------------
+
+   A title given to the head of the Executive Committee.
+
+   Since Federation law grants the person in this position
+   enormous influence over all federal policymaking, he or
+   she must be elected to the seat by a majority vote
+   from the entire Federation government.
+
+   Wilhelm, CEO of Vector Industries, served in this post
+   until several years ago.
+
+
+
+-------------------------------------------------------------------------------
+   factory-loaded                                                        068
+-------------------------------------------------------------------------------
+
+   Refers to certain features that are part of the original
+   spec for products shipped direct from the factory.
+
+   When Realians are shipped out of the factory, they have
+   pre-installed security measures so that subsequent
+   maintenance can only be done at properly equipped
+   facilities or by qualified individuals. This is to
+   prevent the use of Realians in criminal acts.
+
+
+
+-------------------------------------------------------------------------------
+   FAE (Fuel-Air-Explosive)                                              069
+-------------------------------------------------------------------------------
+
+   Conventional FAEs disperse a cloud of fuel which is then
+   ignited once it reaches the intended coverage, resulting
+   in a powerful explosion. Those in close proximity to this
+   explosion will either be flattened by the massive pressure
+   wave, incinerated by the extremely high heat, or suffer
+   the effects of rapid decompression caused by the updraft
+   of super heated air (mainly suffocation and internal
+   hemorrhage).
+
+   The largest weapon of this type has a range with a radius
+   of several kilometers.
+
+   Although the FAE used by the Gnosis is smaller, it appears
+   to have the same effects. However, the substance used as
+   fuel is unknown.
+
+   Here, by the way, is another mystery:
+   Since Virgil was inside an A.G.W.S., his survival can be
+   explained but how could Shion, who was totally unprotected,
+   come out unscathed? It appears that Shion is quite a bit
+   tougher than she looks.
+
+
+
+-------------------------------------------------------------------------------
+   Febronia                                                              070
+-------------------------------------------------------------------------------
+
+   The female Realian at the church inside the Encephalon.
+
+   She is connected to an incident in Shion's childhood, as well
+   as Nephilim.
+
+   She may also have some connection to Virgil, as evinced by
+   the flashback he had, right after he was shot by KOS-MOS.
+
+
+
+-------------------------------------------------------------------------------
+   Federation assembly                                                   071
+-------------------------------------------------------------------------------
+
+   A Galaxy Federation assembly, comprised of Representa-
+   tives from nearly half a million autonomous states. The
+   assembly hall is located on the capital planet of Fifth
+   Jerusalem; however, many Representatives choose to
+   participate via the FTL (faster than light) U.M.N.
+   connection.
+
+   Different assemblies are held, based on the topics of
+   discussion. The assembly which discusses the situation
+   in Miltia is held regularly, and involves all autonomous
+   state Representatives.
+
+   The Executive Committee assembly is responsible for
+   determining vital policies on a federal level.
+
+
+
+-------------------------------------------------------------------------------
+   Federation fleet                                                      072
+-------------------------------------------------------------------------------
+
+   The Galaxy Federation's armed fleet.
+
+   The Navy and the space Marines were combined to form
+   the Federation space force, and distinctions between the
+   branches were minimized (although some traditions still
+   linger within certain units).
+
+   The fleets regularly deployed on space missions are
+   comprised of the space Marines and the Navy, with
+   the occasional inclusion of the special operations
+   fleet.
+
+
+
+-------------------------------------------------------------------------------
+   Federation fleet commander                                            073
+-------------------------------------------------------------------------------
+
+   The commander of the Gedalian fleet, he holds the rank of
+   Rear Admiral.
+
+   Although he is quick-tempered, he is loyal to the mission,
+   and a stickler for regulations and punctuality.
+
+   he has a younger brother from whom he was separated at birth.
+
+
+
+-------------------------------------------------------------------------------
+   Federation police                                                     074
+-------------------------------------------------------------------------------
+
+   Short for "Galaxy Federation police force."
+
+   Their function and organizational structure is basically
+   the same as the police force in our time, but following the
+   transition of human habitation to outer space, a specialized
+   unit was created.
+
+   The Special Operations Command detachment, of which Ziggy
+   was a member in the past, specialized in anti-terrorist
+   operations as well as the protection and rescue of VIPs.
+
+
+
+-------------------------------------------------------------------------------
+   Fifth Jerusalem                                                       075
+-------------------------------------------------------------------------------
+
+   The capital planet of the Galaxy Federation, and seat of the
+   central legislative, judicial, and administrative agencies.
+   The headquarters of the S.O.C.E. is also located here.
+
+   Its name originated from the fact that it was the fifth
+   planetary capital of the Galaxy Federation.
+
+
+
+-------------------------------------------------------------------------------
+   Frailty, thy name...                                                  076
+-------------------------------------------------------------------------------
+
+   From Shakespeare's <Hamlet>.
+
+
+
+-------------------------------------------------------------------------------
+   Gaignun Kukai                                                         077
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4741
+   AGE: 26 years old
+
+   The chairman of the Kukai Foundation, a special Foundation
+   based in Miltia (an autonomous member state of the Galaxy
+   Federation).
+
+   With black hair and deep green eyes, he shares some
+   semblance to Jr. He has a gentle personality and is well
+   respected both within and outside of the Foundation.
+
+   He is listed as the first son and heir to the industrialist
+   Soze Kukai.
+
+
+
+-------------------------------------------------------------------------------
+   Gaignun Kukai (2)                                                     078
+-------------------------------------------------------------------------------
+
+   U.R.T.V. Unit #669.
+
+   A biological weapon whose life energy wavelength cancels
+   that of U-DO. All 669 U.R.T.V. units originated from the
+   same embryonic culture, but were then subjected to an
+   induced mutation to develop their unique gifts. This
+   accounts for the differences in hair or eye color
+   despite their shared embryonic origins.
+
+   Jr.'s ability is to control growth (time), while Albedo can
+   regenerate his own body. Gaignun can telepathically
+   communicate with Jr., but uses his voice to hypnotically
+   manipulate people.
+
+   "Kukai" was a fictional persona created by the second
+   Miltian government, as a means to pool their special
+   operations funds. Following the Miltian Conflict, and
+   Helmer's rescue of Gaignan and Jr., they took on the
+   Kukai surname to justify and establish the Kukai
+   Foundation.
+
+
+
+-------------------------------------------------------------------------------
+   gate-jump                                                             079
+-------------------------------------------------------------------------------
+
+   The act of entering hyperspace.
+
+   The process involves transitioning from normal space into
+   warp space.
+
+   Also known as a "warp-in."
+
+
+
+-------------------------------------------------------------------------------
+   gate-out                                                              080
+-------------------------------------------------------------------------------
+
+   The act of exiting hyperspace.
+
+   The process involves transitioning out of warp space and
+   back into normal space.
+
+   Also known as a "warp-out."
+
+
+
+-------------------------------------------------------------------------------
+   Gedalya                                                               081
+-------------------------------------------------------------------------------
+
+   An autonomous state within the Galaxy Federation.
+
+   Headquarters of the fleet which surrounded the Kukai
+   Foundation. An individual affiliated with the U-TIC
+   Organization holds a position of power here.
+
+
+
+-------------------------------------------------------------------------------
+   generator                                                             082
+-------------------------------------------------------------------------------
+
+   The in-game reference is to Elsa's main engine.
+
+
+
+-------------------------------------------------------------------------------
+   geodesic structure                                                    083
+-------------------------------------------------------------------------------
+
+   Geodesic domes were invented by the engineer/mathemati-
+   cian Richard Buckminster Fuller, and patented in 1951
+   as a means to provide efficient housing structures
+
+   using fewer resources.
+
+   This name is used to describe the visual representation
+   of a basic U.M.N. structure, since it resembles the
+   shape of a geodesic dome.
+
+
+
+-------------------------------------------------------------------------------
+   GFG (Galaxy Federation government)                                    084
+-------------------------------------------------------------------------------
+
+   An interplanetary republic comprised of approximately half
+   a million planets. Each planetary system maintains
+   autonomous rule within the framework of Federation
+   law.
+
+   Its planetary capital is Fifth Jerusalem.
+
+
+
+-------------------------------------------------------------------------------
+   Gnosis                                                                085
+-------------------------------------------------------------------------------
+
+   Entities shrouded in mystery, of which the only known
+   attribute is their hostility toward mankind.
+
+   Gnosis exist in a unique dimension, separate from the
+   physical plane. Therefore it is normally impossible to
+   come into contact with them.
+
+   Due to the variations in external appearance, the
+   standard practice is to name them after mythical
+   creatures.
+
+
+
+-------------------------------------------------------------------------------
+   grave                                                                 086
+-------------------------------------------------------------------------------
+
+   An image from Allen's recollection which he speaks of
+   during a conversation at the Durandal's observatory.
+
+   The vision is of Shion as she mourns at Kevin's grave two
+   years ago. The grave itself is located at the central
+   cemetery inside the Dämmerung. The engraving on the
+   headstone reads:
+
+     Kevin Winnicot
+     4739 - 4765
+     ecce universa terra coram te est recede a me obsecro
+
+   The Latin text is a quote from the Bible. They are Abram's
+   words to Lot:
+
+     <[Is] not the whole land before thee? separate thyself,
+     I pray thee, from me: if [thou wilt take] the left hand,
+     then I will go to the right; or if [thou depart] to the
+     right hand, then I will go to the left.
+     (Genesis 13:9)>
+
+   The emblem of the Galaxy Federation also reflects these
+   same words.
+
+
+
+-------------------------------------------------------------------------------
+   Hammer                                                                087
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4740
+   AGE: 27 years old
+
+   Navigator on the passenger cargo ship Elsa.
+
+   He may not look it, but he was once revered as a brilliant
+   hacker in his teens. However, he got in way over his head
+   when he hacked into a criminal organization's database,
+   and he has been on the run since then.
+
+   He was rescued by Matthews, and the two have worked
+   together ever since. He knows Tony, the pilot, since
+   childhood.
+
+   Although he may be a clown, he is an excellent navigator
+   and engineer.
+
+
+
+-------------------------------------------------------------------------------
+   headgear                                                              088
+-------------------------------------------------------------------------------
+
+   The object thrown at Cherenkov by his wife.
+
+   A sensory linkage device using the U.M.N. as a conduit, it
+   provides virtual reality experiences at home. It is similar to
+   the goggles used by Shion and her team for KOS-MOS'
+   maintenance.
+
+   The phrase, "I can get all the love I need with this!" refers
+   to her "affair" with another man via the headgear. That,
+   combined with the fact that she applied for self-cloning,
+   indicates that she does not seek direct contact with
+   another individual, in any way.
+
+   Regardless, our hearts go out to poor Cherenkov who was
+   simply used and abused.
+
+
+
+-------------------------------------------------------------------------------
+   Helmer                                                                089
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4711
+   AGE: 56 years old
+
+   The Representative of the current autonomous Miltian state
+   government.
+
+   A former military officer, he is a sympathetic ally of Jr. and
+   Gaignun, and he was partially responsible for the
+   establishment of the Kukai Foundation.
+
+   He fears the U-TIC Organization's rise in power and the
+   awakening of U-DO.
+
+
+
+-------------------------------------------------------------------------------
+   Hilbert Effect                                                        090
+-------------------------------------------------------------------------------
+
+   A device which generates a finitely bound realm (a
+   "sensory" realm, to be exact), to enable an inter-
+   section with the imaginary realm.
+
+   There are specific wave energies that exist in both the
+   realms of real numbers and imaginary numbers. This device
+   "interprets" such wave energies into a "common language,"
+   thereby allowing the physical realm to interact with the
+   imaginary realm (the realm of Planck scales).
+
+   What this means, then, is that the Gnosis, which exist
+   outside our physical laws, can effectively be dealt
+   with using a physical, real-world approach.
+
+
+
+-------------------------------------------------------------------------------
+   hoodlums                                                              091
+-------------------------------------------------------------------------------
+
+   The group of hoodlums who confront Cherenkov at the dock
+   colony.
+
+   It is uncertain whether they resented soldiers in particular,
+   or if they were simply looking for a fight. Either way, all of
+   them get the daylights beaten out of them by an out of
+   control Cherenkov.
+
+
+
+-------------------------------------------------------------------------------
+   hyperspace                                                            092
+-------------------------------------------------------------------------------
+
+   A realm of alternate space that vessels pass through during
+   a gate-jump.
+
+   It is shaped like a tube, and is thought to be similar in nature
+   to what are commonly known as wormholes.
+
+
+
+-------------------------------------------------------------------------------
+   identity diffusion                                                    093
+-------------------------------------------------------------------------------
+
+   One of the psychological outcomes of adolescence, as
+   proposed by developmental psychologist Erik Erikson.
+
+   A state in which an individual has an incomplete sense
+   of self, a result of the inability to resolve identity
+   conflicts during adolescence.
+
+
+
+-------------------------------------------------------------------------------
+   illusion and reality                                                  094
+-------------------------------------------------------------------------------
+
+   Since humans process all incoming information within the
+   mind, there is no clear distinction between reality and
+   hallucination. Surely you've experienced this: a moment
+   of pure bliss in which everything around you suddenly
+   looked brighter, due to one reason or another.
+
+   That is, from the perspective of the observer, everything
+   that is perceived as "real" is in fact only real within the
+   observer's mind. Furthermore, there is absolutely no proof
+   to deny the possibility that the world as we know it,
+   exists entirely as a figment of our imagination.
+
+   That is the point Shion was trying to make.
+
+
+
+-------------------------------------------------------------------------------
+   Interconnection                                                       095
+-------------------------------------------------------------------------------
+
+   Mutual interaction.
+
+   The in-game reference is to the act of establishing a non-
+   local connection using the VR-2000. This method frees
+   data transference from the limitations of physics,
+   allowing an instantaneous exchange of data across
+   distances millions of light years apart.
+
+   It utilizes the EPR Paradox, which constitutes the
+   heart of the U.M.N.
+
+
+
+-------------------------------------------------------------------------------
+   interlink                                                             096
+-------------------------------------------------------------------------------
+
+   An exchange of thought between two individuals who are
+   physically connected via an apparatus.
+
+   This is normally achieved by tapping into the U.M.N. network
+   via a control device implanted inside the body.
+
+
+
+-------------------------------------------------------------------------------
+   Isolation Area                                                        097
+-------------------------------------------------------------------------------
+
+   A holding area within the Durandal, used to quarantine the
+   Zohar.
+
+   Since the Zohar emulators emit a certain wavelength of
+   energy that attract the Gnosis, all recovered emulators
+   are kept in a specialized protective container.
+
+
+
+-------------------------------------------------------------------------------
+   It was very dark, and the wind...                                     098
+-------------------------------------------------------------------------------
+
+   "It was very dark, and the wind howled horribly
+   around her..."
+
+   L. Frank Baum's <The Wonderful Wizard of Oz>
+   (1900)
+
+
+
+-------------------------------------------------------------------------------
+   Jin                                                                   099
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4732
+   AGE: 35 years old
+
+   His full name is Jin Uzuki and he is Shion's older brother,
+   related by blood.
+
+   It is difficult to discern his characteristics from just the
+   visuals, but he does appear to be hiding something behind
+   that goofy look.
+
+   He is an expert swordsman -- maybe.
+
+   Unfortunately his moment to shine will not arrive until
+   the next episode (our apologies to those of you who
+   are just dying to see him in action).
+
+
+
+-------------------------------------------------------------------------------
+   Joachim Mizrahi                                                       100
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4701
+   AGE: 52 years old at time of death
+
+   An advocate of the 100-Series Observational Units, and
+   essentially MOMO's father.
+
+   A scientist renowned for his genius, he died in T.C. 4753,
+   the year the Miltian Conflict began. The Federation
+   benefited greatly from his contributions, as his
+   numerous research findings played a large part in
+   the Federation's growth.
+
+   He was also Juli Mizrahi's former husband.
+
+
+
+-------------------------------------------------------------------------------
+   Jr.                                                                   101
+-------------------------------------------------------------------------------
+
+   Gaignun Kukai Jr., director of Kukai Foundation.
+
+   His hobby is collecting ancient text and literature, as well as
+   ancient (relative to his time period) weapons.
+
+   The official records state that he was born in T.C. 4755 and
+   is the adopted son of Gaignun Kukai.
+
+
+
+-------------------------------------------------------------------------------
+   Jr. (2)                                                               102
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4740
+   AGE: 26 years old
+
+   One of the surviving U.R.T.V. units, he is a human specially
+   "created" as an antithesis to U-DO, the living consciousness
+   which jeopardized the Galaxy Federation in the past.
+
+   His relationship to Albedo and Gaignun Sr. shall be revealed
+   in further detail, in subsequent episodes.
+
+
+
+-------------------------------------------------------------------------------
+   Jr. and Albedo's powers                                               103
+-------------------------------------------------------------------------------
+
+   The aura surrounding Jr. and Albedo is one of their special
+   abilities, a result of the induced mutation process to
+   which they were subjected to at birth.
+
+
+
+-------------------------------------------------------------------------------
+   Juli Mizrahi                                                          104
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4723
+   AGE: 44 years old
+
+   One of the top members of the Galaxy Federation's
+   Subcommittee on Close Encounters (S.O.C.E.) and widow
+   of the late Joachim Mizrahi.
+
+   In T.C. 4754, her alarm over the increase in Gnosis
+   phenomena prompted her to form the S.O.C.E. She is the
+   current legal guardian of MOMO, one of the 100-Series
+   Observational Units which she developed in conjunction
+   with her late husband Joachim.
+
+   Her maiden name is Niwashiro.
+
+
+
+-------------------------------------------------------------------------------
+   Keltia                                                                105
+-------------------------------------------------------------------------------
+
+   A planetary member of the Galaxy Federation, and the
+   location of the Seraphim Sisters' concert.
+
+
+
+-------------------------------------------------------------------------------
+   Kevin                                                                 106
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4739
+   AGE: 26 years old
+
+   Former Chief Engineer of the KOS-MOS project, Vector
+   Industries First R&D Division.
+
+   He was Shion's immediate superior and also her boyfriend,
+   but he was killed 2 years ago during an incident when
+   KOS-MOS went out of control.
+
+   He was in charge of not only KOS-MOS' software compo-
+   nents, but the design and development of its hardware
+   as well. The hardware for the current KOS-MOS was
+   developed by Second Division, at a later time.
+
+
+
+-------------------------------------------------------------------------------
+   Kindling                                                              107
+-------------------------------------------------------------------------------
+
+   When bursts of electrical charges occur repeatedly in the
+   brain, and neural impulses pass through the limbic system
+   repetitively, the result is a permanent acceleration of 
+   certain neural connections or the opening of entirely new
+   neural paths.
+
+   Kindling is any process that permanently alters the inner
+   emotional state-of-being of the host.
+
+
+
+-------------------------------------------------------------------------------
+   kirschwasser                                                          108
+-------------------------------------------------------------------------------
+
+   The word for "cherry brandy" in the German language.
+
+   An Observational Realian created by Joachim Mizrahi for
+   the purpose of collecting data for the prototype MOMO.
+
+
+
+-------------------------------------------------------------------------------
+   KOS-MOS                                                               109
+-------------------------------------------------------------------------------
+
+   An armored female android developed by the interstellar
+   conglomerate, Vector Industries.
+
+   She is comprised entirely of mechanical parts, a rarity in
+   an age of advanced Realian technology. The basic tenet to
+   which she adheres to is based on logic, probability, and
+   completion of her mission above all else. She also
+   unconditionally protects Shion, her creator.
+
+   She is equipped with a "simulated personality OS" to aid in
+   communication, and though her speech conveys her role as
+   an android in service to humans, her tendency to put logic
+   and probability first makes her quite difficult to manage
+   at times.
+
+   The name KOS-MOS is a general acronym to denote an anti-
+   Gnosis tactical system. It stands for "Kosmos Obey
+   Strategic Multiple Operation Systems."
+
+
+
+-------------------------------------------------------------------------------
+   KOS-MOS' main equipment from Second Division                          110
+-------------------------------------------------------------------------------
+
+   The equipment KOS-MOS would have when ready for
+   deployment.
+
+   Since the military brass was getting impatient with the slow
+   pace of development, Allen thought to stave off their
+   worries by handing Shion a list of equipment which
+   Second Division provided.
+
+
+
+-------------------------------------------------------------------------------
+   Kukai Foundation                                                      111
+-------------------------------------------------------------------------------
+
+   A unique foundation whose membership extends to both
+   Matthews and his crew.
+
+   Its headquarters is located on a free orbiting space colony.
+
+
+
+-------------------------------------------------------------------------------
+   Kukai Foundation (2)                                                  112
+-------------------------------------------------------------------------------
+
+   The Kukai Foundation was a special organization establish-
+   ed soon after the end of the Miltian Conflict, and its
+   sole purpose was to subjugate the U-TIC Organization.
+
+   Since then, most of its military forces were decommission-
+   ed, and the other divisions branched off into independent
+   civilian corporations, thus forming the basis of the
+   foundation's present structure.
+
+   The fact that Vector is one of its primary investors
+   explains why the lion's share of the equipment
+   installed onboard the Durandal, is made by Vector.
+
+
+
+-------------------------------------------------------------------------------
+   Labyrinthos                                                           113
+-------------------------------------------------------------------------------
+
+   Legend has it that Daedalus built a great maze in Knossos,
+   Crete, to imprison the half-human, half-beast minotaur.
+
+   It is unknown as to why this name was given to an U-TIC
+   Organization facility.
+
+   The etymology is <Labrys>, a Greek word for a double-bladed
+   ax.
+
+
+
+-------------------------------------------------------------------------------
+   Lake Turkana                                                          114
+-------------------------------------------------------------------------------
+
+   A lake located at the northern tip of Kenya which covers an
+   area of 7000 sq km. Its maximum depth is 73m.
+
+   Many ancient hominid (human) fossil discoveries were made
+   at this site.
+
+   Also known as Lake Rudolph.
+
+
+
+-------------------------------------------------------------------------------
+   Lieutenant Commander                                                  115
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4734
+   Age: 33 years old
+
+   A member of the U-TIC Organization and a subordinate of
+   Cherenkov's.
+
+   He infiltrated the Woglinde in order to take possession of
+   the Zohar.
+
+   He tends to wear his heart on his sleeve, but he is very
+   conscientious of his duties, and quite the stickler for
+   regulations, and time.
+
+   He has an older brother whom he was separated from at
+   birth.
+
+
+
+-------------------------------------------------------------------------------
+   Lieutenant Commander Vanderkam                                        116
+-------------------------------------------------------------------------------
+
+   A lieutenant commander in the U-TIC Organization.
+
+   Rumor has it that he was onboard the Woglinde to secure the
+   Zohar.
+
+   Whether he was the same officer who reprimanded Shion is as
+   of yet unknown.
+
+
+
+-------------------------------------------------------------------------------
+   life pod                                                              117
+-------------------------------------------------------------------------------
+
+   A life preservation craft used in emergencies.
+
+   The Woglinde was equipped with many of these life pods,
+   but by the time Shion and Allen escaped, only one remained.
+
+   Maximum occupancy is limited to two, and the life support
+   system can run for 500 hours. However, judging from the
+   levels of remaining oxygen, it seems that Shion's pod
+   already had problems on or before takeoff.
+
+
+
+-------------------------------------------------------------------------------
+   Life Recycling Act                                                    118
+-------------------------------------------------------------------------------
+
+   Introduced as a bill in T.C. 4590, it passed with unusual
+   speed and was voted into law the following year, in 4591.
+
+   In the age when cyborg technology was at its peak, human
+   resources were dwindling and this law was intended for
+   "effective utilization" of these resources.
+
+   However, with time the interpretation of the law expanded
+   to condone human cloning, genetic and neural engineering,
+   and other procedures formerly considered to be off-limits.
+
+   Various corporate interests are suspected to be behind
+   this development.
+
+   This law remained in effect for 160 years, until it was
+   revoked in T.C. 4754.
+
+
+
+-------------------------------------------------------------------------------
+    Life Recycling Variant                                               119
+-------------------------------------------------------------------------------
+
+   A term which encompasses individuals or their descendants
+   who have had their DNA, neural structure, or other bio-
+   logical components heavily modified. Some may display
+   extraordinary physical abilities or superhuman powers
+   depending on the level of modification, but on the
+   other hand many suffer from adverse mental effects.
+
+   In the case of Cherenkov, he was part of a Super Soldier
+   program developed by a "certain branch of the military."
+   He was created via artificial insemination, and equipped
+   with several modifications before being sent off to battle.
+
+
+
+-------------------------------------------------------------------------------
+   link experiment                                                       120
+-------------------------------------------------------------------------------
+
+   An experiment led by Cherenkov to activate the Zohar
+   emulator.
+
+   The word "link" indicates that the procedure entails
+   connecting the Zohar with another entity.
+
+
+
+-------------------------------------------------------------------------------
+   Lion's Heart                                                          121
+-------------------------------------------------------------------------------
+
+   An auction house that deals with ancient artwork and
+   weapons obtained through the U.M.N. network.
+
+
+
+-------------------------------------------------------------------------------
+   Logic Drive                                                           122
+-------------------------------------------------------------------------------
+
+   A logic propulsion device.
+
+   A new type of propulsion system which replaced traditional
+   reactionary propulsion systems. It works by reconfiguring
+   the spatial phase around its direction of travel.
+
+   Substantial amounts of energy are needed to power this
+   system, but since the energy source is relatively easy to
+   compact, the system is being considered for use in fleets
+   with transfer type generators as well as A.G.W.S.
+
+
+
+-------------------------------------------------------------------------------
+   Lost Jerusalem                                                        123
+-------------------------------------------------------------------------------
+
+   The home world of mankind, which was lost thousands of
+   years ago -- Earth.
+
+   In this age, not even its actual location is known.
+
+
+
+-------------------------------------------------------------------------------
+   LPS                                                                   124
+-------------------------------------------------------------------------------
+
+   Short for "Local Positioning System."
+
+   A system which monitors the location and physical status
+   of each crew member within a vessel, and reports that
+   information to the CIC (Combat Intelligence Center).
+
+   The LPS onboard the Woglinde (which had a capacity well over
+   the total amount of data gathered), appears to have been
+   overwhelmed by incessant use of the D.S.S.S. by the A.G.W.S.
+
+   Without the support of the 100-Series Observational Units
+   for search and adherence, the A.G.W.S. must calculate the 
+   timing of the interference for the Gnosis on their own.
+   Thus high demands on the D.S.S.S. apparently overloaded
+   the CIC mainframe, which constantly backs up the D.S.S.S.
+   of every A.G.W.S.
+
+
+
+-------------------------------------------------------------------------------
+   maintenance lab                                                       125
+-------------------------------------------------------------------------------
+
+   A room equipped for A.G.W.S. maintenance.
+
+   Onboard the Elsa, a room in the corner of the A.G.W.S. hangar
+   functions as the maintenance lab. KOS-MOS ran a bypass
+   from the co-generator to this room, where her maintenance
+   unit was located.
+
+
+
+-------------------------------------------------------------------------------
+   maintenance unit                                                      126
+-------------------------------------------------------------------------------
+
+   A mobile unit used for regular maintenance on KOS-MOS,
+   it also executes system checks when she is shut down.
+
+
+
+-------------------------------------------------------------------------------
+   Margulis                                                              127
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4723
+   AGE: 44 years old
+
+   One of the key figures of the U-TIC Organization and
+   commander of Pleroma, one of their primary bases.
+
+   He is intricately connected to both the incident which
+   occurred 14 years ago, and the Miltian Conflict.
+
+   He appears to be a former soldier, judging from his strong
+   physique and the sword scar running across his cheek.
+
+   A master swordsman with a cold, merciless personality.
+
+
+
+-------------------------------------------------------------------------------
+   man in a scarlet cloak                                                128
+-------------------------------------------------------------------------------
+
+   An individual that appears to be Wilhelm's advisor.
+
+   His true identity is unknown, but the fact that he was giving
+   orders to Lieutenant Virgil indicates that he is a man of very
+   high rank.
+
+   Whether he has any connections to Vector is yet unknown.
+
+
+
+-------------------------------------------------------------------------------
+   marienkind                                                            129
+-------------------------------------------------------------------------------
+
+   From Grimm's <Marienkind (Mary's Child)>, a story about a
+   girl who received from the Virgin Mary, the keys to the
+   13 doors in heaven.
+
+
+
+-------------------------------------------------------------------------------
+   marking on the forehead                                               130
+-------------------------------------------------------------------------------
+
+   A mark that appeared on Cherenkov's forehead.
+
+   This marking is given to every individual who has undergone
+   the personality corrective procedure.
+
+   The mark is made by modifying the inner skin at a molecular
+   level, then connecting that area with the part of the brain
+   that was corrected. Therefore, it appears when the
+   recipient's emotions rise beyond a certain threshold.
+
+
+
+-------------------------------------------------------------------------------
+   Mary                                                                  131
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4747
+   AGE: 20 years old
+
+   Chief of the Kukai Foundation's Strategy Division.
+
+   She supports Jr. and Gaignun, and commands the Durandal
+   along with her older sister Shelley.
+
+   Although she was born in Miltia, she speaks with an unknown
+   planetary accent. She is the life of the party within the
+   Foundation.
+
+   Her full name is Mary Godwin. She adopted that surname
+   after being rescued by the Foundation.
+
+
+
+-------------------------------------------------------------------------------
+   Matthews                                                              132
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4727
+   AGE: 40 years old
+
+   Captain of the passenger cargo ship Elsa.
+
+   A chronic spender, he is constantly in debt. In particular, he
+   owes a large sum to the Kukai Foundation, and his beautiful
+   ship was made into collateral.
+
+   After retiring, he worked as a junk trader collecting and
+   selling debris from around the universe, but in recent years
+   he works mainly for the Kukai Foundation.
+
+   He met chaos several years before the beginning of this
+   episode, and they have been traveling together since.
+
+
+
+-------------------------------------------------------------------------------
+   memorial service                                                      133
+-------------------------------------------------------------------------------
+
+   Refers to the Buddhist practice of holding a memorial for the
+   deceased every 7 days for 49 days, as well as the services
+   given during the anniversary of the deceased.
+
+   Shion's brother, Jin, has apparently read about this Buddhist
+   tradition in a book, and was attempting to recreate it, but it
+   is uncertain whether he is in fact a practicing Buddhist.
+   (We think not.)
+
+
+
+-------------------------------------------------------------------------------
+   Miltia                                                                134
+-------------------------------------------------------------------------------
+
+   The planet where the war that came to be known as the
+   Miltian Conflict, took place.
+
+   Miltia is also Shion's birthplace.
+
+
+
+-------------------------------------------------------------------------------
+   Miltian Charter                                                       135
+-------------------------------------------------------------------------------
+
+   A body of Federation laws enacted after the Miltian Conflict.
+
+
+
+-------------------------------------------------------------------------------
+   Miltian Conflict                                                      136
+-------------------------------------------------------------------------------
+
+   A war constantly referred to throughout the episode.
+
+   The outbreak of hostilities begain 14 years ago and ultimately
+   dragged the entire Federation into it.
+
+   The name originated from the fact that the territory of
+   Miltia, where Shion was born, was the site of the most
+   vicious battles.
+
+   As for what exactly happened in Miltia at the time, that
+   story will have to wait.
+
+
+
+-------------------------------------------------------------------------------
+   Miyuki                                                                137
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4747
+   AGE: 20 years old
+
+   A systems programmer at Vector's First R&D Division.
+
+   She's a younger colleague of Shion's, and quite a mechanical
+   otaku. She submits patent applications as a hobby, and
+   constantly creates new inventions using Shion and the
+   other as guinea pigs.
+
+   As her supervisor, Shion is plagued by her constant
+   expense authorization requests.
+
+   Her full name is Miyuki Itsumi, and in a way, she is a
+   woman very true to her ambitions.
+
+
+
+-------------------------------------------------------------------------------
+   Mizrahi Cerebral Sciences Research Center                             138
+-------------------------------------------------------------------------------
+
+   The research institute where Joachim Mizrahi worked as
+   chief scientist, before the U-TIC Organization was
+   established.
+
+   It is a unique institute which combines neuroscience with
+   phenomenology, and aside from the fact that it was
+   sponsored by Vector Industries, there is very
+   little known about it.
+
+
+
+-------------------------------------------------------------------------------
+   MOMO                                                                  139
+-------------------------------------------------------------------------------
+
+   Short for Multiple Observative Mimetic Organicus.
+   Activation date unknown.
+
+   She is a 100-Series prototype Realian designed to observe
+   and contact the Gnosis, beings that can only be detected
+   by a "special sense."
+
+   She was created by Joachim Mizrahi, and she resembles his
+   deceased daughter, Sakura Mizrahi. Her outward appearance
+   is that of a 12 year old.
+
+
+
+-------------------------------------------------------------------------------
+   MT field                                                              140
+-------------------------------------------------------------------------------
+
+   The MT field of the temporal lobe.
+
+   Damage to this area of the brain results in a condition called
+   "motion blindness," in which the eyes can see but cannot
+   track the continuous motion of an object (such as a person
+   who is running or a moving car). Instead, objects in motion
+   appear as a series of flash photography images.
+
+   It is said that to individuals with this condition, a normal
+   conversation is perceived as a teleconference call with
+   very slow transmission speeds.
+
+
+
+-------------------------------------------------------------------------------
+   ...mutations in genomes                                               141
+-------------------------------------------------------------------------------
+
+   A phrase implying that genomes, or hereditary information,
+   will somehow get around all obstacles in order to pass
+   itself on.
+
+
+
+-------------------------------------------------------------------------------
+   M.W.S.                                                                142
+-------------------------------------------------------------------------------
+
+   Short for "Multiple Weapons System."
+
+   A portable, multi-function weapon storage unit designed
+   and built by Shion's younger colleague Miyuki.
+
+   Contained within the unit are various types of weapons
+   including fighting knuckles, taser rods, and anti-Gnosis
+   beam launchers. It also has a built-in shield that utilizes
+   spatial phase shifting, thus providing a high level of
+   defensive ability in addition to the offensive capability.
+   The unit also contains a makeshift Logic Drive, which not
+   only counterbalances but also enhances physical attacks.
+
+   Thus even the weakest individuals can go head-to-head
+   with an armored tactical weapon (in theory).
+
+
+
+-------------------------------------------------------------------------------
+   nanomachine                                                           143
+-------------------------------------------------------------------------------
+
+   Nano is the word for "dwarf" in the Greek language.
+   One nanometer equals one billionth of a meter.
+
+   The in-game reference is to atom-sized machines which are
+   used for everything from repairing body cells to terraform-
+   ing. Many varieties of nanomachines exist for various
+   purposes, and their components range from complex
+   proteins to traditional mechanical parts.
+
+   Nanomachines are used in recovery items and certain ether
+   skills used by Shion and the other characters.
+
+
+
+-------------------------------------------------------------------------------
+   nanotreatment                                                         144
+-------------------------------------------------------------------------------
+
+   A medical treatment technique utilizing nanomachines.
+
+   Nanotreatment of illness and injury in this world is about
+   as common as our use of drugs.
+
+   MOMO tried to treat Cherenkov's injuries with nanomachines
+   capable of cellular restoration. However, Cherenkov
+   adamantly avoided this treatment for fear that it would
+   trigger a violent reaction to the chemical which
+   controls his emotions.
+
+
+
+-------------------------------------------------------------------------------
+   NATARAJA                                                              145
+-------------------------------------------------------------------------------
+
+   An avatar of Shiva, represented as a dancing figure with
+   many arms.
+
+   It is of particular interest that this system is named after
+   Shiva, who is also the god of creation and destruction.
+
+   The system itself was designed by Kevin.
+
+
+
+-------------------------------------------------------------------------------
+   Nephilim                                                              146
+-------------------------------------------------------------------------------
+
+   According to the Bible, the sons of fallen angels.
+
+   References to the Nephilim can be seen in the Old Testament:
+
+     <The Nephilim were on the earth in those days, and also
+     afterward, when the sons of God came in to the
+     daughters of men, and they bore [children] to them.
+     Those were the mighty men who [were] of old, men of
+     renown.
+     (Genesis 6:4)>
+
+
+
+-------------------------------------------------------------------------------
+   Nero                                                                  147
+-------------------------------------------------------------------------------
+
+   The fifth emperor of Rome.
+
+     "Nero is an angler in the lake of darkness..."
+     William Shakespeare, <King Lear 3:6> (1605)
+
+
+
+-------------------------------------------------------------------------------
+   Nexus 6                                                               148
+-------------------------------------------------------------------------------
+
+   Serial number of the artificial dog that Ziggy gave to his
+   stepson as a gift.
+
+   His phrase "I wanted to get you a real one..." reveals how
+   real purebred dogs were extremely rare in that age, and
+   Ziggy, a policeman, could not possibly afford one. Hence,
+   cheaper artificial dogs were popularized as substitutes.
+
+   "Nexus" is the name of the company that manufactures
+   these artificial dogs, and their lifespan exceeds well
+   beyond four years.
+
+
+
+-------------------------------------------------------------------------------
+   Nigredo                                                               149
+-------------------------------------------------------------------------------
+
+   In <Psychology and Alchemy> (1944), C.G. Jung refers to
+   nigredo, or "blackening," as the initial stage in the
+   process of human individuation as symbolized in
+   alchemic terms.
+
+   The nickname for jet-black haired U.R.T.V. Unit Number 669
+   (Gaignun).
+
+   The assumed name "Gaignun" was taken from a kitten he
+   owned with Rubedo. Gaignun, incidentally, is also the
+   name of King Marsil's horse in the 11th century
+   French epic: "<Song of Roland.>"
+
+
+
+-------------------------------------------------------------------------------
+   Notice of Cloning Procedure Completion                                150
+-------------------------------------------------------------------------------
+
+   A document which Cherenkov's wife received from the
+   Federation health department.
+
+   Since the revocation of the Life Recycling Act, strict
+   restrictions were placed on the process of cloning for
+   personal reasons. After a lengthy application process,
+   only those deemed physically and mentally sound, with a
+   record of positive contributions to the Federation
+   government, are granted this privilege.
+
+   For Cherenkov's wife, who has always avoided intimacy
+   (both physical and emotional) with others, the method
+   of cloning to leave behind descendants must have been
+   a fairly natural decision.
+
+   However, to Cherenkov, who dreamed (or imagined that he
+   dreamed) of experiencing a connection with others, her
+   decision came as an unbearable blow, a negation of his
+   very existence and purpose.
+
+
+
+-------------------------------------------------------------------------------
+   Old Miltia                                                            151
+-------------------------------------------------------------------------------
+
+   Otherwise known as Miltia.
+
+   An area in the galaxy closed off since the Miltian Conflict,
+   14 years ago.
+
+
+
+-------------------------------------------------------------------------------
+   pêche                                                                 152
+-------------------------------------------------------------------------------
+
+   French for "peach."
+
+
+
+-------------------------------------------------------------------------------
+   péché                                                                 153
+-------------------------------------------------------------------------------
+
+   French for "sinner."
+
+
+
+-------------------------------------------------------------------------------
+   Pellegri                                                              154
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4732
+   AGE: 35 years old
+
+   A female commander within the U-TIC Organization.
+
+   She serves as Margulis' aide on Pleroma.
+
+
+
+-------------------------------------------------------------------------------
+   Penfield mapping                                                      155
+-------------------------------------------------------------------------------
+
+   A map of the brain which shows the distinct functional
+   regions of the cerebral cortex.
+
+   The in-game reference is to the digitized procedure which
+   links Shion's cerebral regions to their respective regions
+   in KOS-MOS.
+
+
+
+-------------------------------------------------------------------------------
+   personality reconditioning facility                                   156
+-------------------------------------------------------------------------------
+
+   The facility to which Cherenkov was committed.
+
+   Its purpose is to literally recondition an individual's
+   personality by processes such as altering neural networks,
+   or placing implants that regulate hormone production.
+
+   In this age, vicious criminals are subjected without exception
+   to this procedure. Those that go through the procedure are
+   returned to society after they successfully complete their
+   re-education programs.
+
+
+
+-------------------------------------------------------------------------------
+   phase transfer cannon                                                 157
+-------------------------------------------------------------------------------
+
+   A weapon which utilizes the principle of phase transfer
+   within a vacuum.
+
+   The main body is compacted to Planck scale, and it expands
+   into true space once it receives the system activation
+   key from the cartridge.
+
+   The part that looks like a handgun is actually a part of the
+   phase transfer cannon, and once the cannon is activated it
+   doubles as the laser locking device and trigger component.
+
+   In the story, the "mass" in the phrase "...by limiting the
+   phase transfer mass..." refers to mass in vacuum and the
+   amount of fluctuation in its phase.
+
+
+
+-------------------------------------------------------------------------------
+   PT cartridge                                                          158
+-------------------------------------------------------------------------------
+
+   Short for "phase transfer" cartridge.
+
+   An energy cartridge for the phase transfer cannon, which
+   doubles as its system activation key.
+
+
+
+-------------------------------------------------------------------------------
+   ...phenomena like this...                                             159
+-------------------------------------------------------------------------------
+
+   Occasional Gnosis sightings have been recorded throughout
+   history, but due to the small scale of attacks and minimal
+   damage which resulted, most of these encounters were lost
+   as unofficial reports.
+
+   Joachim Mizrahi was one of the few scientists who focused
+   and researched these Gnosis encounters.
+
+
+
+-------------------------------------------------------------------------------
+   photon torpedo                                                        160
+-------------------------------------------------------------------------------
+
+   Although called a photon torpedo, this weapon actually
+   utilizes matter/anti-matter reactions. Matter and
+   anti-matter are isolated in a protective field that
+   is disengaged right before reaching the target,
+   releasing the destructive force of matter/anti-matter
+   reaction.
+
+   The "photon" refers to the bright light given off by the
+   protective field once it is launched. Due to the extreme
+   difficulty in creating anti-matter, the amount of
+   reaction from one photon torpedo is minimal.
+
+
+
+-------------------------------------------------------------------------------
+   Pieta                                                                 161
+-------------------------------------------------------------------------------
+
+   A central supercomputer owned by the Yuriev Institute.
+   They in turn are a research facility built by another
+   giant business conglomerate rivaling Vector, the
+   Hyams Group.
+
+
+
+-------------------------------------------------------------------------------
+   Plan 31                                                               162
+-------------------------------------------------------------------------------
+
+   Codename for an order given to the U-TIC Organization's
+   474th Special Operations Fleet.
+
+   It seems to refer to a certain action relating to the capture
+   of the Zohar. We hope to resolve the mystery by the time Jr.
+   is introduced.
+
+
+
+-------------------------------------------------------------------------------
+   Plan 401                                                              163
+-------------------------------------------------------------------------------
+
+   Codename for an order given by Margulis.
+
+   This plan apparently entailed taking control of the
+   Federation's military through political means, rather
+   than resorting to the U-TIC Organization's fleet.
+
+   The goal of this plan was to surround Miltia with his
+   fleet and usurp the vested rights of the planet.
+
+
+
+-------------------------------------------------------------------------------
+   planet Ariadne                                                        164
+-------------------------------------------------------------------------------
+
+   A planetary member of the Galaxy Federation which vanished
+   during the Zohar emulator experiment. It had a population
+   of approximately 1.5 billion.
+
+   An experimental laboratory owned by the U-TIC Organization
+   was located here. It was also home to Cherenkov after his
+   personality corrective procedure.
+
+
+
+-------------------------------------------------------------------------------
+   Pleroma                                                               165
+-------------------------------------------------------------------------------
+
+   One of the U-TIC Organization's operational bases, it is
+   comprised of several linked asteroids, and serves as
+   Margulis' post.
+
+     *Pleroma
+     This term and concept can be found in both Jungian
+     psychology and Gnostic doctrine.
+
+   Although we will not reveal any answers at this point, it
+   may be of interest to delve further into this concept. It
+   may offer a glimpse of things to come in the future of
+   Xenosaga, or it may provide some insight into the various
+   themes that appear in the current story.
+
+
+
+-------------------------------------------------------------------------------
+   PM                                                                    166
+-------------------------------------------------------------------------------
+
+   Short for "Pistolet Makarova," the gun which Gaignun
+   gave to Jr.
+
+   An automatic pistol made in the former USSR, it was issued
+   to the Soviet army in 1951, replacing the Tokarev TT1933.
+   It uses a 9x18mm round, which is slower and therefore packs
+   less penetrating power than the older Tokarevs. It holds
+   eight rounds in the cartridge plus one in the chamber.
+
+   The background story is that this gun, which Gaignun
+   acquired at an auction, was made by the former Soviet
+
+   Union as a gift to a foreign VIP.
+
+   A less known fact, however, is that Jr. had already
+   purchased a SPP-1 at another auction, unbeknownst
+   to Gaignun...
+
+
+
+-------------------------------------------------------------------------------
+   Porter                                                                167
+-------------------------------------------------------------------------------
+
+   The U.M.N. acts as a recording medium, holding every
+   incident and every phenomenon in this world, as
+   permanent records.
+
+   Porters are agent-like A.I.s that exist in order to manage
+   and preserve those records. Porters owned by the govern-
+   ment run U.M.N. Management Agency usually manage an
+   individual's information, whereas corporations usually
+   have their own proprietary Porters manage their
+   company records.
+
+   The term "Porter" is an encompassing name for "any A.I.
+   that behaves autonomously within the network." For
+   example, mail traffic is regulated by a type of A.I.
+   called the Mail Porter.
+
+   There are as many different functions for Porters, as
+   there are business models practiced on the Net.
+
+
+
+-------------------------------------------------------------------------------
+   postwar reparations                                                   168
+-------------------------------------------------------------------------------
+
+   A policy for reparatory compensation, established at the
+   end of the Miltian Conflict, that caused a severe drain
+   on all parties.
+
+   However, many sectors from various autonomous states
+   failed to benefit from these reparations, and after
+   14 years, the issue is yet to be fully resolved.
+
+
+
+-------------------------------------------------------------------------------
+   potential phenomena                                                   169
+-------------------------------------------------------------------------------
+
+   A term mentioned by Nephilim.
+
+   In other words, one possible path of the future. Since the
+   future has yet to be determined, nothing is definite;
+   only a myriad of possibilities exist.
+
+
+
+-------------------------------------------------------------------------------
+   power loader                                                          170
+-------------------------------------------------------------------------------
+
+   A humanoid machine used to carry heavy loads inside the
+   Woglinde.
+
+   It is standard issue labor machinery, used throughout the
+   Federation. Some of them are equipped with a flamethrower
+   on the right arm.
+
+
+
+-------------------------------------------------------------------------------
+   primer walking                                                        171
+-------------------------------------------------------------------------------
+
+   A technique used to detect traces of Zohar wave energies.
+
+   The term is derived from a DNA sequence analysis technique.
+
+
+
+-------------------------------------------------------------------------------
+   Procurator                                                            172
+-------------------------------------------------------------------------------
+
+   An agent-like A.I. which extracts services from the U.M.N.,
+   as requested by the user.
+
+   A Procurator is essential in order to navigate through the
+   U.M.N.'s vast information network, and it manages most of
+   the routine work related to the U.M.N. in place of the user.
+   For example, the task of sending and receiving mail is
+   overseen by one type of A.I. called the "Mail Porter."
+
+   By having the Procurator act as a go-between for the user
+   and the Mail Porter, the user can send and receive mail
+   simply by instructing the Procurator, without having to
+   deal with the Mail Porter.
+
+   The environmental simulator and database can also be used
+   via the Procurator (though a specific plug-in is necessary).
+
+   Usually instructions to the Procurator are given vocally,
+   but some complex operations require the use of a keyboard.
+
+   A smaller Procurator resides within mobile units such as the
+   Connection Gear. Vector's line of Connection Gear, the
+   "Rios" series, also contain a Procurator named ANGE.
+
+   Incidentally, Shion has replaced this Procurator with
+   another which she created, Bunnie.
+
+
+
+-------------------------------------------------------------------------------
+   Proto Merkabah                                                        173
+-------------------------------------------------------------------------------
+
+   An immense industrial plant built under the supervision of
+   Joachim Mizrahi.
+
+   Although its purpose is unknown, it has the power to absorb
+   Gnosis and convert them into a power source.
+
+   It is also the birthplace of MOMO.
+
+
+
+-------------------------------------------------------------------------------
+   ram                                                                   174
+-------------------------------------------------------------------------------
+
+   A protrusion at the front of a vessel which breeches the
+   walls of enemy ships.
+
+   The Durandal has a holding area for troops at the very
+   tip of its ram, enabling them to engage the enemy
+   immediately after impact.
+
+
+
+-------------------------------------------------------------------------------
+   reactor room                                                          175
+-------------------------------------------------------------------------------
+
+   The room where Woglinde's main propulsion systems are
+   located.
+
+   Equivalent to an engine room.
+
+
+
+-------------------------------------------------------------------------------
+   Realian                                                               176
+-------------------------------------------------------------------------------
+
+   An artificial human.
+
+   A wonder of molecular bioengineering, its biological
+   composition comes in various forms based on need, from
+   carbon based duplicates of real humans to those based on
+   silicon or liquid metal. Many of the Realians onboard the
+   Woglinde were made by Vector, and they are hybrid models
+   with a carbon/ silicon base.
+
+   Since the Miltian Conflict, the alteration of a Realian's
+   emotions is no longer allowed. The only exceptions are
+   for Realians in the military or other dangerous
+   occupations, such as terraforming.
+
+   Their basic rights equal those of humans and are recog-
+   nized by law. However, due to the fact that their minds
+   are initialized with a slight bias, all Realians tend to
+   display similar personality traits. This bias is applied
+   not only for the purpose of preventing criminal behavior
+   by Realians, but also in consideration of humans who may
+   feel threatened by their "superiority" (albeit only in
+   certain specialized skills).
+
+   Several companies manufacture Realians, but Vector makes
+   the basic program (in other words the central nervous
+   system) of all Realians.
+
+   This program is essentially a black box, and any modifi-
+   cation beyond regular maintenance and adjustments can
+   only be performed by Vector.
+
+
+
+-------------------------------------------------------------------------------
+    Real Mode                                                            177
+-------------------------------------------------------------------------------
+
+   The procedure where data on the Gnosis is incorporated
+   into a combat simulation.
+
+
+
+-------------------------------------------------------------------------------
+   recycler                                                              178
+-------------------------------------------------------------------------------
+
+   Individuals who salvage space wreckage to sell (sometimes
+   after fixing them up) to brokers.
+
+   Laws governing this type of activity vary from state to
+   state, but in general it is considered illegal.
+
+   Matthews and his crew engage in recycling as a side
+   business.
+
+
+
+-------------------------------------------------------------------------------
+   reload                                                                179
+-------------------------------------------------------------------------------
+
+   Normally refers to the act of putting a new round of
+   ammunition into a gun. Here, it means replenishing
+   the power source.
+
+
+
+-------------------------------------------------------------------------------
+   Rhine Maiden                                                          180
+-------------------------------------------------------------------------------
+
+   Vector's latest development in weapons technology.
+
+   Named after Wagner's <Ring of the Nibelung: Prelude -
+   Rhinegold>, in which the Rhinemaidens are three naiads
+   who guard the magic Rhinegold lying at the bottom
+   of the river.
+
+   The three ships which have this weapon onboard are called
+   Woglinde, Wellgunde, and Flosshilde (after the original
+   Rhinemaidens). The vessels themselves are massive
+   battleships over 8000m in length, and are equipped
+   with this specialized anti-Gnosis weapon.
+
+
+
+-------------------------------------------------------------------------------
+   Rubedo                                                                181
+-------------------------------------------------------------------------------
+
+   In <Psychology and Alchemy> (1944), C.G. Jung refers to
+   rubedo, or "reddening," as one stage in the process of
+   human individuation as symbolized in alchemic terms.
+
+   A nickname for U.R.T.V. Unit #666 (Jr.), who unlike the
+   other units, has bright red hair.
+
+   Apparently Jr. got his name because he is physically
+   smaller in stature than Gaignun, hence "Gaignun Jr."
+
+
+
+-------------------------------------------------------------------------------
+   Second Miltia                                                         182
+-------------------------------------------------------------------------------
+
+   Planetary capital of the current Miltian autonomous state
+   government.
+
+   The planent is 13,200km in diameter, with a gravity ratio
+   1.03. It was only recently terraformed, so it still has an
+   abundance of forests. The atmosphere-generating
+   nanomachines within the ocean are still active, causing
+   the planet to appear light green from space.
+
+   Shion's parents' home is located here.
+
+
+
+-------------------------------------------------------------------------------
+   secondary equipment                                                   183
+-------------------------------------------------------------------------------
+
+   Part of KOS-MOS' combat equipment.
+
+   It allows for the exchange of parts, such as body frame
+   and armor.
+
+
+
+-------------------------------------------------------------------------------
+   Sellers                                                               184
+-------------------------------------------------------------------------------
+
+   The man with motorized sunglasses, with whom Margulis was
+   discussing the Zohar and plans for future, at the command
+   center on Pleroma.
+
+   His appearance and demeanor indicate that he is a scientist
+   of some sort. The fact that he spoke to Margulis as an equal
+   indicates that he is also a very high ranking individual,
+   but he is otherwise a mystery...
+
+
+
+-------------------------------------------------------------------------------
+   Senir                                                                 185
+-------------------------------------------------------------------------------
+
+   A planetary member of the Galaxy Federation.
+
+   Judging from what Cherenkov said, there seems to be a
+   facility on this planet linked to the U-TIC Organization.
+
+
+
+-------------------------------------------------------------------------------
+   Seraphim Sisters                                                      186
+-------------------------------------------------------------------------------
+
+   The object of Matthews' adoration.
+
+   Their name suggests that they are a female vocal duo.
+
+
+
+-------------------------------------------------------------------------------
+   Shelley                                                               187
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4745
+   AGE: 22 years old
+
+   Aide to the chairman of Kukai Foundation, she assists Jr.
+   and Gaignun in running the Foundation.
+
+   She was once part of a group of people, who were illegally
+   "owned" by a pharmaceutical company that used them as
+   guinea pigs. Twelve years ago, Gaignun rescued her along
+   with Mary, and she has made her home in the Foundation
+   ever since.
+
+   Her full name is Shelley Godwin.
+
+
+
+-------------------------------------------------------------------------------
+   Shion Uzuki                                                           188
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4745
+   AGE: 22 years old
+
+   Assigned to Vector Industries' First R&D Division at the
+   age of 18 in T.C. 4763.
+
+   Her official title is Chief Engineer of the KOS-MOS Project
+   General Operation System Research Center, Vector
+   Industries First R&D Division. Although two years younger
+   than Allen, Shion is a year his senior in the corporate
+   hierarchy of Vector.
+
+   Although she appears clumsy at times, she is actually quite
+   athletic. In particular, her high kicks are powerful enough
+   to render a grown man unconscious. She apparently also
+   wields a jujitsu-like technique passed on from her
+   grandfather, but unfortunately this skill does not
+   appear in this episode.
+
+
+
+-------------------------------------------------------------------------------
+   Shion's father                                                        189
+-------------------------------------------------------------------------------
+
+   A high-ranking official in the Federation's Ministry of Energy,
+   he served as supervisor of special operations.
+
+   As to what exactly his job entailed, or what operations he
+   was supervising, remains to be seen in following episodes.
+
+
+
+-------------------------------------------------------------------------------
+   S.M.S. tracking signal                                                190
+-------------------------------------------------------------------------------
+
+   Short for "Somatic Monitoring System."
+
+   A monitoring system used by U-TIC agents to track an
+   individual.
+
+
+
+-------------------------------------------------------------------------------
+   S.O.C.E. (Subcommittee On Close Encounters)                           191
+-------------------------------------------------------------------------------
+
+   A panel of researchers convened by the Federation
+   government in T.C. 4754 to counter the Gnosis phenomena.
+
+   While it is called a "Sub" committee, it has over 2000
+   members representing government agencies, corporations,
+   and various scientific fields. At its operational core
+   are seven members, each of whom holds high positions in
+   the Federation.
+
+   Juli Mizrahi, MOMO's creator, is one of the seven members.
+
+
+
+-------------------------------------------------------------------------------
+   Song of Nephilim System                                               192
+-------------------------------------------------------------------------------
+
+   One of several giant machines created by Joachim Mizrahi.
+
+   It emits a song-like frequency that only certain individuals
+   can hear, but the actual purpose of this device is yet
+   unknown.
+
+   It does, however, curiously reappear throughout the story,
+   be it in the meaning behind the word "madness" uttered by
+   Jr. and Margulis, or the appearance of a girl with the
+   same name. The fact that Shion saw this device on Miltia
+   as a little girl, only furthers the mystery.
+
+
+
+-------------------------------------------------------------------------------
+   Species Preservation Act                                              193
+-------------------------------------------------------------------------------
+
+   A law enacted in order to revive the human race, which had
+   degenerated due to the harmful effects of the Life
+   Recycling Act.
+
+   The purpose behind this legislation was to preserve and
+   propogate a pure breed of humans that was untouched by
+   genetic engineering, cloning, or organ enhancements. It also
+   strove to restore the original genetic code that had been
+   altered by the Life Recycling Act.
+
+   Due to the fact that enforcement is left to the discretion
+   of each autonomous state, there is a pointed lack of
+   standardization and effectiveness across the
+   multitude of jurisdictions.
+
+
+
+-------------------------------------------------------------------------------
+   Tactical Sim Lab                                                      194
+-------------------------------------------------------------------------------
+
+   Refers to Vector's "Combat Technology Research
+   Laboratory."
+
+   A division within Vector which evaluates all weapons created
+   by the company, for their wartime efficacy. In some cases,
+   it also develops new technologies as well.
+
+   It is separate from the other R&D divisions for practical
+   reasons, and is located onboard the Dämmerung.
+
+
+
+-------------------------------------------------------------------------------
+   target drone                                                          195
+-------------------------------------------------------------------------------
+
+   A drone used as a target in battle simulations.
+
+
+
+-------------------------------------------------------------------------------
+   telepathy                                                             196
+-------------------------------------------------------------------------------
+
+   An ability to converse via the transmission of thoughts only.
+
+
+
+-------------------------------------------------------------------------------
+   telomerase                                                            197
+-------------------------------------------------------------------------------
+
+   An enzyme that restores and extends telomeres (the protein
+   complex at the ends of a chromosome).
+
+
+
+-------------------------------------------------------------------------------
+   Tessedora                                                             198
+-------------------------------------------------------------------------------
+
+   One of the planetary members of the Galaxy Federation.
+
+
+
+-------------------------------------------------------------------------------
+   Togashi                                                               199
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4745
+   AGE: 22 years old
+
+   A younger colleague of Allen.
+
+   Togashi joined Vector's First R&D Division right after the
+   incident in which KOS-MOS went out of control.
+
+   He finds great satisfaction in giving his mentor Allen a
+   hard time.
+
+   His hobby is judo.
+   And he is in love with Miyuki -- maybe.
+
+
+
+-------------------------------------------------------------------------------
+   Tony                                                                  200
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4738
+   AGE: 29 years old
+
+   Pilot of the passenger cargo ship, Elsa.
+
+   Normally handsome and debonair, he completely changes
+   when he's in the pilot seat. To his credit though, he
+   is in fact a brilliant pilot, having saved the Elsa
+   from countless perils.
+
+   Definitely a ladies' man.
+
+
+
+-------------------------------------------------------------------------------
+   ...too close to fire the cannons                                      201
+-------------------------------------------------------------------------------
+
+   In zero gravity space warfare, a basic rule of engagement is
+   to take into account the possibility of incurring damage to
+   oneself via debris from a destroyed target.
+
+   During the story, an officer exclaims, "We're too close to
+   fire the cannons!" because the Gnosis were too close to the
+   ship, and could not be fired upon for fear of debris damaging
+   the ship.
+
+   (Although it sure did look like they were firing those things
+   with reckless abandon...)
+
+
+
+-------------------------------------------------------------------------------
+   trade column                                                          202
+-------------------------------------------------------------------------------
+
+   The U.M.N.'s columns are divided into separate routes
+   according to their use. The trade column is a route
+   used mainly by cargo and passenger vessels.
+
+   During the story, Ziggy chose to navigate through this
+   particular column, in hopes that the heavy traffic will
+   interfere with his pursuers' tracking system.
+
+
+
+-------------------------------------------------------------------------------
+   transfer system                                                       203
+-------------------------------------------------------------------------------
+
+   A material transport technique which utilizes an unique
+   feature of the U.M.N.
+
+   It's usage is fairly common in this age. However,
+   transference of materials with amorphous network
+   information -- that is, living organisms -- is considered
+   virtually impossible. This is due to the serious impact
+   such transference has on the actual information
+   contained within these living networks, such as
+   personality and biological functions.
+
+   Transference of living organisms requires a protective
+   shield, and due to the size of such shield-generating
+   systems, it would in turn require the use of a vehicle,
+   like a space vessel. This explains why Matthews' ship
+   is both a passenger and cargo ship.
+
+
+
+-------------------------------------------------------------------------------
+   transfer wave                                                         204
+-------------------------------------------------------------------------------
+
+   A signal emitted by the U-TIC Organization's Auto-Tech
+   terminals, which specify transfer coordinates.
+
+   After infiltration of the Elsa, the Auto-Tech began
+   transferring its remote drones from outside the ship
+   into various coordinates throughout the ship's interior.
+
+   Since the drones were not transferred directly onto the
+   bridge, it appears that the transfer wave only works
+   within a certain range.
+
+   Why the Auto-Tech chose to take over the aft hangar,
+   is yet unknown.
+
+
+
+-------------------------------------------------------------------------------
+   Twelve Apostles                                                       205
+-------------------------------------------------------------------------------
+
+   The twelve followers of Jesus Christ.
+
+
+
+-------------------------------------------------------------------------------
+   Type 7 personality corrective procedure                               206
+-------------------------------------------------------------------------------
+
+   A personality control procedure administered to Cherenkov.
+
+   In this age, every violent criminal whose behavior is a
+   result of brain abnormalities, is given this procedure
+   without exception.
+
+   The procedure itself actually entails implanting a nano-
+   machine which suppresses emotional impulses into the brain.
+   However, there are a few individuals that are not cured by
+   this, and even more extreme procedures, Type 8 and Type 9,
+   are available.
+
+   Incidentally, the ratio of male to female recipients of
+   this procedure is 8 to 2, an increase in the proportion
+   of females from the current ratio of male to female
+   violent criminals with abnormal impulses, which is
+   9 to 1.
+
+
+
+-------------------------------------------------------------------------------
+   Type G target drone                                                   207
+-------------------------------------------------------------------------------
+
+   Drones used as targets during simulated battles.
+
+   They differ from ordinary ones in that they are programmed
+   to emulate Gnosis.
+
+
+
+-------------------------------------------------------------------------------
+   Uberhumans                                                            208
+-------------------------------------------------------------------------------
+
+   During the heyday of the Life Recycling Act, many people
+   opted to undergo artificial procedures to enhance physical
+   abilities or to increase brain capacity. This term is used
+   to describe those individuals or their descendants.
+
+   Although Allen refers to them as "mutants," these gifted
+   individuals do not exhibit any external differences when
+   compared to ordinary humans.
+
+   Current Federation law prohibits any acts of discrimination
+   against such people, yet feelings of hostility still abound
+   in various corners of the galaxy. The Kukai Foundation not
+   only protects these individuals, but also provides them
+   with a means to support themselves.
+
+
+
+-------------------------------------------------------------------------------
+   U-DO                                                                  209
+-------------------------------------------------------------------------------
+
+   The entity depicted as a massive shockwave originating from
+   Old Miltia, in the futuristic vision shown to Shion by Nephilim.
+
+   Judging from the words of Gaignun, Helmer, and Wilhelm, it
+   is clearly related to the incident which occurred 14 years
+   ago.
+
+   Nephilim claims that the wave is a living consciousness,
+   but the truth is yet to be revealed...
+
+
+
+-------------------------------------------------------------------------------
+   Ultra Wide-Range Hilbert                                              210
+-------------------------------------------------------------------------------
+
+   The deployment of the Hilbert Effect over an extremely large
+   area.
+
+   Ordinarily, the range of KOS-MOS' Hilbert Effect is set to
+   cover a radius of about 300,000km. However, when Shion
+   witnessed the impending massive swarm of Gnosis, she
+   decided to enlarge the effective range to a radius of
+   several hundred AU (astronomical units).
+
+
+
+-------------------------------------------------------------------------------
+   U.M.N.                                                                211
+-------------------------------------------------------------------------------
+
+   Short for "Unus Mundus Network."
+
+   An informational network that spans the entire universe.
+   Its non-locality is a large factor in its use in space
+   warps and FTL (faster than light) communications.
+
+   The term <unus mundus>, literally "one world," was used by
+   psychiatrist C.G. Jung to describe a state beyond this world
+   where every contradiction in physics, like synchronicity and
+   the EPR Paradox, can be explained.
+
+   A place where every relationship, such as that of the mind
+   to mind, or mind to matter, can also make sense.
+
+
+
+-------------------------------------------------------------------------------
+   U.M.N. Control Center                                                 212
+-------------------------------------------------------------------------------
+
+   The U.M.N. Transport Gate management facility, located in
+   Second Miltia.
+
+   This and all facilities associated with the U.M.N. come under
+   the jurisdiction of the U.M.N. Management Agency. As such,
+   the U.M.N. Management Agency virtually controls all
+   information within the Galaxy Federation, making it a
+   very influential agency within the central government.
+
+   The agency relies on Vector to provide 98% of its
+   facilities and resources.
+
+
+
+-------------------------------------------------------------------------------
+   U.M.N. pulse                                                          213
+-------------------------------------------------------------------------------
+
+   A navigational signal, constantly being emitted from the
+   U.M.N. transfer column.
+
+   Each column emits a different pulse, so one must receive
+   the pulse from a column located at the destination, or
+   the set of pulses from the columns located along the
+   jump route, during a gate-jump.
+
+
+
+-------------------------------------------------------------------------------
+   U.M.N. transfer column                                                214
+-------------------------------------------------------------------------------
+
+   The U.M.N. Transport Gate has relay points called columns
+   located at certain intervals in hyperspace. These columns
+   connect every Transport Gate in the galaxy to one
+   another. It is similar to the connections within a
+   neural network.
+
+   Since each column has a limited area of influence, a gate-
+   jump cannot be performed from outside that area.
+
+
+
+-------------------------------------------------------------------------------
+   UNP                                                                   215
+-------------------------------------------------------------------------------
+
+   Short for "U.M.N. phone."
+
+   A type of wireless communication device used commonly in
+   this time period.
+
+   The Connection Gear, which Shion uses all the time, also
+   comes with a communications function, but since Connection
+   Gears are rather expensive, not everyone utilizes them.
+   Shion also carries a U.M.N. phone as a backup
+   communication device.
+
+   Since the Connection Gear uses a special communications
+   line reserved for the military, in situations where the
+   central system of the CIC (Combat Intelligence Center)
+   is congested, it is easier to get a connection via the UNP.
+
+
+
+-------------------------------------------------------------------------------
+   U.R.T.V.                                                              216
+-------------------------------------------------------------------------------
+
+   Short for "U-DO Retro Virus."
+   Also known as U-Retrovirus.
+
+   A biological weapon whose life energy wavelength cancels
+   that of U-DO.
+
+   669 units were created by the late Dr. Dmitri Yuriev,
+   head of the Yuriev Institute.
+
+   Dr. Yuriev is the genetic father of the U.R.T.V.
+
+
+
+-------------------------------------------------------------------------------
+   U-TIC Organization                                                    217
+-------------------------------------------------------------------------------
+
+   Official name: Unknown Territory Intervention and Creation
+   Agency.
+
+   An agency connected closely with the Miltian Conflict,
+   references of which are made throughout Episode I.
+   It was buried in obscurity for decades, but reappeared
+   in T.C. 4767, which is when this story begins.
+
+   An independent organization not associated with the Galaxy
+   Federation, it nevertheless boasts a level of technology
+   and military force that far surpass those of the
+   Federation government or military.
+
+   Its origins can be traced back to the Mizrahi Neuro-
+   science Institute, which means that Joachim Mizrahi
+   is the agency's founder. However, the connection
+   between him and Margulis is yet unknown.
+
+
+
+-------------------------------------------------------------------------------
+   V4 field                                                              218
+-------------------------------------------------------------------------------
+
+   One of the visual fields of the brain.
+
+   The human brain is said to contain 30 or more of these
+   visual fields. Damage to both sides of the V4 visual
+   field will result in complete color blindness.
+
+
+
+-------------------------------------------------------------------------------
+   variant                                                               219
+-------------------------------------------------------------------------------
+
+   The central mainframe, "Pieta," is made up of numerous
+   processors. All of them, except for the main processor
+   are referred to as variants.
+
+
+
+-------------------------------------------------------------------------------
+   Vector First R&D Division                                             220
+-------------------------------------------------------------------------------
+
+   Referred to as "First Division" amongst Vector employees.
+
+   Its origins date back to a joint venture by the government
+   and private sector to manage the U.M.N. Although it now
+   functions as a department within a corporation, it has
+   retained its original title of "Division."
+
+   After relegating the management of the U.M.N. to the
+   government, the Division's primary function has been the
+   development of various computer chips and supporting
+   software for industrial supercomputer A.I.s.
+
+   The KOS-MOS R&D project, to which Shion and her team are
+   assigned to, sought to develop an emotively controlled OS.
+
+
+
+-------------------------------------------------------------------------------
+   Vector fleet design department                                        221
+-------------------------------------------------------------------------------
+
+   A section within Vector's Second R&D Division which
+   specializes in the construction of interstellar warships.
+
+   The Woglinde also originated from here.
+
+
+
+-------------------------------------------------------------------------------
+   Vector Industries                                                     222
+-------------------------------------------------------------------------------
+
+   The largest business conglomerate in the Federation,
+   and an integral part of modern civilization.
+
+   It is involved in the production and distribution of almost
+   every product, from food and medicine, software and
+   hardware, to communication and weapons.
+
+   It has a multitude of divisions, of which the core components
+   are the First, Second, and Third R&D Divisions.
+
+   Vector Industries has a very long history, and its presence
+   dates back to the initial formation of the Federation.
+
+
+
+-------------------------------------------------------------------------------
+   Vector Second R&D Division                                            223
+-------------------------------------------------------------------------------
+
+   The division responsible for hardware development.
+
+   Its duties include the development and production of
+   Federation fleet vessels and A.G.W.S.
+
+
+
+-------------------------------------------------------------------------------
+   Vector Third R&D Division                                             224
+-------------------------------------------------------------------------------
+
+   One of the three core R&D divisions of Vector Industries.
+
+   Its sole purpose is to oversee the development, production,
+   training, and distribution of Realians.
+
+   Though her motives were unknown to others, Shion
+   apparently requested a reassignment to this division.
+
+
+
+-------------------------------------------------------------------------------
+   ...violation of protocol                                              225
+-------------------------------------------------------------------------------
+
+   The records within KOS-MOS' subconscious are part of
+   Vector's most highly classified information, and in the
+   story Allen declares that any unauthorized duplication
+   of them is a clear violation of company regulations.
+
+   Actually, the motive behind the duplication is to clear any
+   suspicion toward the Foundation (of which Vector is a
+   primary investor), and the Second Miltian government.
+   Therefore, in light of the situation, it seems highly
+   unlikely that permission for such would be withheld.
+
+   The only requirement would be to censor any information
+   that should be withheld from the public, (this is not
+   considered a falsification of records), and filter the
+   record.
+
+   However, Shion decided that the current situation qualifies
+   as an emergency, and took it upon herself to move forward
+   without any pre-authorization.
+
+
+
+-------------------------------------------------------------------------------
+   wave ride                                                             226
+-------------------------------------------------------------------------------
+
+   A piloting technique where a vessel's force field is
+   intersected with the inner walls of hyperspace in
+   order to obtain high velocity.
+
+   This technique pushes the vessel to the very edge
+   of hyperspace, therefore it requires extraordinary
+   piloting skills.
+
+
+
+-------------------------------------------------------------------------------
+   Weapons-Grade Realian                                                 227
+-------------------------------------------------------------------------------
+
+   A Realian specially modified for combat.
+
+   Their senses and physical abilities are better developed than
+   those of regular Realians. They are also designed to operate
+   for long periods of time in the battlefield, and their emotions
+   have been modified so that fear or other feelings detrimental
+   to combat will not surface. (Although Realians in general are
+   designed not to feel fear, there are occasional anomalies.)
+
+   Although the Realians' weapons appear similar to those used
+   by humans, the caliber of their weaponry is comparable to
+   that of a tank-mounted gun, and they fire reinforced
+   ammunition.
+
+
+
+-------------------------------------------------------------------------------
+   Wells' Aliens                                                         228
+-------------------------------------------------------------------------------
+
+   Refers to the octopus-like Martians invented by H.G. Wells.
+
+   The in-game reference is to a comment Shion makes
+   regarding Allen stubbornness:
+
+     "You're usually so hardheaded with your logic and
+     preconceptions, I was a little worried that you'd
+     become like one of Wells' aliens."
+
+   For better or worse, it appears as though Shion believes
+   that Wells' Aliens have very hard heads.
+
+
+
+-------------------------------------------------------------------------------
+   whitening                                                             229
+-------------------------------------------------------------------------------
+
+   A phenomenon in which a human being touched by a Gnosis
+   turns completely white and shatters into dust.
+
+   Shion and Cherenkov have both experienced a near-
+   whitening. Cherenkov later transformed into a Gnosis,
+   but whether Shion will do the same is unknown.
+
+
+
+-------------------------------------------------------------------------------
+   Wilhelm                                                               230
+-------------------------------------------------------------------------------
+
+   Founder and CEO of the interplanetary conglomerate,
+   Vector Industries.
+
+   He also served as the Executive Committee Director of the
+   Galaxy Federation, up to a decade ago.
+
+   Like chaos, his origins and personal history are shrouded
+   in mystery.
+
+   A man in a scarlet cloak, his advisor and aide, is ever present
+   at his side and the strains of Wagner can always be heard
+   in his office.
+
+
+
+-------------------------------------------------------------------------------
+   Woglinde                                                              231
+-------------------------------------------------------------------------------
+
+   Built by Vector Industries and loaned to the Federation
+   Marine Corps, it was the first battleship specifically
+   built to combat Gnosis.
+
+   Although Vector hastily added a bridge and a bare bones
+   propulsion system to make it operable on the test flight,
+   the ship remains eighty percent incomplete.
+
+   Due to its status as a test prototype, the Vector logo
+   can be seen in place of the usual Federation Marine
+   Corps insignia.
+
+   The ship consists of a unique bi-level design, which
+   enables it to split into an upper and lower section. The
+   upper section houses the bridge. The lower section is not
+   actually a part of the vessel's body; it was created with
+   recycled material to temporarily house the new Logic
+   Drive during its test flight.
+
+   Vessel length: 1000m
+
+
+
+-------------------------------------------------------------------------------
+   Y Data                                                                232
+-------------------------------------------------------------------------------
+
+   A series of research data left by the late Joachim Mizrahi,
+   sought by the U-TIC Organization and the S.O.C.E.
+
+   In the story, this data is said to exist in MOMO's
+   unconscious memory, although it is not very certain.
+
+   Dialogs surrounding it suggest that this data is vital to
+   the Zohar Project.
+
+
+
+-------------------------------------------------------------------------------
+   Ziggurat 8                                                            233
+-------------------------------------------------------------------------------
+
+   Ziggurat Industries Cyborg version 8.0.
+
+   Since the advent of Realian technology, all effort to develop
+   new cyborgs was abandoned, but pre-existing models
+   continued to be upgraded.
+
+   However, with the enactment of the Species Preservation
+   Act this practice was also stopped, making version 8.0
+   the last in the Ziggurat series.
+
+
+
+-------------------------------------------------------------------------------
+   Ziggurat Industries                                                   234
+-------------------------------------------------------------------------------
+
+   A corporate entity specializing in cybernetic technology
+   and biotechnology.
+
+   After the enactment of the Species Preservation Act, it
+   eliminated its ailing cybernetics department and shifted
+   its resources towards the development of nanotechnology.
+
+
+
+-------------------------------------------------------------------------------
+   Ziggy                                                                 235
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4637
+
+   A combat cyborg assigned the task of recovering and
+   protecting MOMO, the 100-Series Observational Realian.
+
+   Upon his death in T.C. 4667 at the age of 30, his body was
+   donated to science, and two years later he was reborn as
+   a combat cyborg.
+
+   The last rank he held was captain of the 1875th Special
+   Operations Command detachment of the Federation Police
+   Bureau.
+
+   He is currently appropriated to the S.O.C.E. According to
+   Federation law, upon death, an individual's body is desig-
+   nated as "public property", thus they are no longer able
+   to control their own fates.  Perhaps this is why Ziggy
+   considers himself simply equipment owned by the S.O.C.E.
+
+   His thinking is in direct contrast to MOMO, who longs to be
+   human. Ziggy constantly strives to turn himself completely
+   into a machine through repeated tune-ups that eliminate
+   his human parts, piece by piece.
+
+   His looks belie his extremely old age, and his advice gained
+   from years of experience is both practical and precise.
+
+   His former name was Jan Sauer.
+
+
+
+-------------------------------------------------------------------------------
+   Zoar Incident                                                         236
+-------------------------------------------------------------------------------
+
+   The incident that triggered a massive war within the
+   Federation, which culminated in the Miltian Conflict.
+
+   Although details pertaining to this incident are unknown,
+   it was around this time that Cherenkov was born as a
+   super soldier (biological weapon).
+
+
+
+-------------------------------------------------------------------------------
+   Zohar                                                                 237
+-------------------------------------------------------------------------------
+
+   A mysterious golden object, and the focal point of the story
+   throughout the entire Xenosaga series.
+
+   The word originates from <Zohar ('Book of Splendor')>, a
+   central literary work of the <Kabbalah>.
+
+
+
+-------------------------------------------------------------------------------
+   Zohar Project                                                         238
+-------------------------------------------------------------------------------
+
+   A project involving the Galaxy Federation, S.O.C.E., Second
+   Miltia, and Vector, among others.
+
+   As to the exact nature of this project, please stay tuned
+   for the following episodes.
+
+
+
+-------------------------------------------------------------------------------
+   100-Series Observational Unit                                         239
+-------------------------------------------------------------------------------
+
+   The Anti-Gnosis Observational Realians that were slated
+   for duty onboard the Woglinde.
+
+   They are capable of unleashing the Hilbert Effect.
+
+
+
+-------------------------------------------------------------------------------
+   100-Series Realian                                                    240
+-------------------------------------------------------------------------------
+
+   Another name for the 100-Series Observational Units.
+
+   The 100-Series System, which combines D.S.S.S. and the
+   Hilbert Effect, is a brand new technology which was
+   only recently developed. The entire system weighs over
+   10 tons, making it virtually impossible to scale it
+   down to human size. Thus the 100-Series System that was
+   issued to the military consisted of two parts; the main
+   system (a 15m x 15m block resembling a supercomputer),
+   and a mass-produced 100-Series Realian as a terminal
+   device.
+
+   This system and the one installed in KOS-MOS share the
+   same technology, leading to speculation that the two
+   are somehow connected.
+
+
+
+-------------------------------------------------------------------------------
+   117th Marine Division                                                 241
+-------------------------------------------------------------------------------
+
+   A Federation Marine Corps Division assigned to escort the
+   cruiser Woglinde.
+
+   Since the Division's HQ was not in close proximity to the
+   Federation bases, resupply of their equipment was delayed.
+
+
+
+-------------------------------------------------------------------------------
+   1st Lieutenant Virgil                                                 242
+-------------------------------------------------------------------------------
+
+   BORN: T.C. 4735
+   AGE: 32 years old
+
+   A first lieutenant of the Galaxy Federation Marine Corps
+   and a brilliant A.G.W.S. pilot.
+
+   He is afflicted with DME addiction (which is caused by
+   the consumption of Realian body tissue), as evidenced
+   by the condition of his facial skin.
+
+
+
+-------------------------------------------------------------------------------
+   1st Lieutenant Virgil (2)                                             243
+-------------------------------------------------------------------------------
+
+   How the man who was shot to death by KOS-MOS manages
+   to show up in front of Shion, is unclear. What is clear,
+   however, is that something had happened to him and he
+   now has superhuman powers.
+
+   The fact that he was taking orders from Wilhelm's advisor
+   indicates that he has some kind of connection with Wilhelm.
+
+
+
+-------------------------------------------------------------------------------
+   400 level of the program                                              244
+-------------------------------------------------------------------------------
+
+   Part of the program used to measure KOS-MOS' combat
+   capabilities.
+
+
+
+-------------------------------------------------------------------------------
+   474th Special Operations Fleet                                        245
+-------------------------------------------------------------------------------
+
+   The fleet that attacked Jr. and company.
+
+   It was deployed by Margulis, who predicted that the Kukai
+   Foundation would take action to investigate the Woglinde
+   incident.
+
+
+
+
+
+
+
