@@ -5,7 +5,7 @@ import numpy as np
 import faiss
 from sentence_transformers import SentenceTransformer
 
-INDEX_PATH = "glossary_index.faiss"
+INDEX_PATH = "corpus/output/glossary_index.faiss"
 
 # Load your embeddings
 embeddings = np.load("corpus/output/glossary_embeddings.npy")
